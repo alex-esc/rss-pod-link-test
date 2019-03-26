@@ -1,32 +1,2941 @@
- <?xml version="1.0" encoding="UTF-8"?>
-  <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
-  <channel>
-    <title>test</title>
-    <link>example.com</link>
-    <language></language>
-    <copyright></copyright>
-    <itunes:subtitle>owah</itunes:subtitle>
-    <itunes:author>melolz</itunes:author>
-    <itunes:summary>okno</itunes:summary>  
-    <itunes:owner>
-      <itunes:name></itunes:name>
-      <itunes:email></itunes:email>
-    </itunes:owner>
-    <itunes:image href="https://i.imgur.com/ch6uSes.jpg" />
-    <itunes:category text=""/>
-    
-      <item>
-        <title>episode test</title>
-        <itunes:author></itunes:author>
-        <itunes:subtitle></itunes:subtitle>
-        <itunes:summary></itunes:summary>
-        <itunes:image href="https://i.imgur.com/ch6uSes.jpg" />
-        <enclosure url="https://r5---sn-0opoxu-hutek.googlevideo.com/videoplayback?key=cms1&amp;ei=_JaZXLPbJ6_W8gSav4LQAw&amp;pl=23&amp;clen=68043672&amp;signature=21D3CF8A8374C690D1D1ADF04F5BC10A86529A69.0BCCF59F3AF04329C5D3576408CD25E6DD9EE40D&amp;sparams=clen,dur,ei,expire,gir,id,ip,ipbits,ipbypass,itag,keepalive,lmt,mime,mip,mm,mn,ms,mv,pl,requiressl,source,usequic&amp;keepalive=yes&amp;ip=2604%3Aa880%3A400%3Ad1%3A%3A6b6%3Ab001&amp;requiressl=yes&amp;itag=251&amp;lmt=1550008276400879&amp;id=o-AJ29kLjHoPxXVq6leTkLKqyfJ02ROFhI6NMhY1e2Nu7k&amp;dur=4158.101&amp;source=youtube&amp;mime=audio%2Fwebm&amp;txp=5511222&amp;ipbits=0&amp;expire=1553591132&amp;gir=yes&amp;c=WEB&amp;fvip=5&amp;host=r5---sn-ab5l6nzr.googlevideo.com&amp;redirect_counter=1&amp;rm=sn-ab5yl76&amp;req_id=cf5849e57ad4a3ee&amp;cms_redirect=yes&amp;ipbypass=yes&amp;mip=189.152.47.148&amp;mm=31&amp;mn=sn-0opoxu-hutek&amp;ms=au&amp;mt=1553569404&amp;mv=m&amp;usequic=no" length="" type="audio/mpeg"/>
-        <guid></guid>
-        <pubDate>Mon Mar 25 2019 21:16:17 GMT-0600 (Central Standard Time)</pubDate>
-        <itunes:duration></itunes:duration>
-      </item>
-    
-  </channel>
-  </rss>
+<?xml version="1.0" encoding="UTF-8"?> 
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2enclosuresfull.xsl"?> 
+<?xml-stylesheet type="text/css" media="screen" href="http://feeds.feedburner.com/~d/styles/itemcontent.css"?> 
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"> 
+<channel> 
+<title>Jet_so_plus: video editing</title> 
+<link>https://youtube.com/playlist?list=PLmyix0xax7AbCKEjhdekE2RknCHQYLPmU</link> 
+<description>Jet_so_plus: video editing (2016-10-29 16:53:56 +0000 UTC)</description> 
+<category>TV &amp; Film</category> 
+<generator>Podsync generator</generator> 
+<language>en-us</language> 
+<lastBuildDate>Tue, 26 Mar 2019 03:36:22 +0000</lastBuildDate> 
+<pubDate>Sat, 29 Oct 2016 16:53:56 +0000</pubDate> 
+<image> 
+<url>https://i.ytimg.com/vi/J5cJDkfgOKI/hqdefault.jpg</url> 
+<title>Jet_so_plus: video editing</title> 
+<link>https://youtube.com/playlist?list=PLmyix0xax7AbCKEjhdekE2RknCHQYLPmU</link> 
+</image> 
+<itunes:author>Jet_so_plus: video editing</itunes:author> 
+<itunes:subtitle>Jet_so_plus: video editing</itunes:subtitle> 
+<itunes:summary><![CDATA[Jet_so_plus: video editing (2016-10-29 16:53:56 +0000 UTC)]]></itunes:summary> 
+<itunes:image href="https://i.ytimg.com/vi/J5cJDkfgOKI/hqdefault.jpg" /> 
+<itunes:explicit>no</itunes:explicit> 
+<itunes:category text="TV &amp; Film" /> 
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/Jet_so_plusVideoEditing" /> 
+<feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="jet_so_plusvideoediting" /> 
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /> 
+<media:thumbnail url="https://i.ytimg.com/vi/J5cJDkfgOKI/hqdefault.jpg" /> 
+<media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">TV &amp; Film</media:category> 
+<item> 
+<guid>http://podsync.net/download/g3lOCiiSZ/srFOmrlMDq4.mp4</guid> 
+<title>The Magic of Movie Editing - Part 1</title> 
+<link>https://youtube.com/watch?v=srFOmrlMDq4</link> 
+<description>How the pro's edit movies in Hollywood</description> 
+<pubDate>Wed, 15 Mar 2017 03:46:34 +0000</pubDate> 
+<enclosure url="http://podsync.net/download/g3lOCiiSZ/srFOmrlMDq4.mp4" length="313250000" type="video/mp4" /> 
+<itunes:author>Jet_so_plus: video editing</itunes:author> 
+<itunes:subtitle>The Magic of Movie Editing - Part 1</itunes:subtitle> 
+<itunes:summary><![CDATA[How the pro's edit movies in Hollywood]]></itunes:summary> 
+<itunes:image href="https://i.ytimg.com/vi/srFOmrlMDq4/hqdefault.jpg" /> 
+<itunes:duration>14:55</itunes:duration> 
+<itunes:explicit>no</itunes:explicit> 
+<itunes:order>0</itunes:order> 
+<media:content url="http://podsync.net/download/g3lOCiiSZ/srFOmrlMDq4.mp4" fileSize="313250000" type="video/mp4" /> 
+</item> 
+<item> 
+<guid>http://podsync.net/download/g3lOCiiSZ/J5cJDkfgOKI.mp4</guid> 
+<title>How to Deal with Writer's Block</title> 
+<link>https://youtube.com/watch?v=J5cJDkfgOKI</link> 
+<description>A few tips (or maybe just one, really big tip) on how to get over that creative rut. 
 
+Twitch: https://www.twitch.tv/sideways440 
+Twitter: https://twitter.com/Sideways440</description> 
+<pubDate>Tue, 07 Feb 2017 21:40:42 +0000</pubDate> 
+<enclosure url="http://podsync.net/download/g3lOCiiSZ/J5cJDkfgOKI.mp4" length="81200000" type="video/mp4" /> 
+<itunes:author>Jet_so_plus: video editing</itunes:author> 
+<itunes:subtitle>How to Deal with Writer's Block</itunes:subtitle> 
+<itunes:summary><![CDATA[A few tips (or maybe just one, really big tip) on how to get over that creative rut.
+
+Twitch: https://www.twitch.tv/sideways440
+Twitter: https://twitter.com/Sideways440]]></itunes:summary> 
+<itunes:image href="https://i.ytimg.com/vi/J5cJDkfgOKI/hqdefault.jpg" /> 
+<itunes:duration>3:52</itunes:duration> 
+<itunes:explicit>no</itunes:explicit> 
+<itunes:order>1</itunes:order> 
+<media:content url="http://podsync.net/download/g3lOCiiSZ/J5cJDkfgOKI.mp4" fileSize="81200000" type="video/mp4" /> 
+</item> 
+<item> 
+<guid>http://podsync.net/download/g3lOCiiSZ/RzgLbuj6dHM.mp4</guid> 
+<title>Language of Editing: Basic Cuts</title> 
+<link>https://youtube.com/watch?v=RzgLbuj6dHM</link> 
+<description>Clickbait title: This editor describes basic vocabulary and you won't believe what happens next! 
+
+Filmmakers are actually really awful when it comes to vocabulary, re-using words randomly, basically describing anything with whatever word feels right at the time. A gobo is a cucalorus, also called a cookie, that has a focusing mechanism, but a gobo is also a kind of motor, and that motor might be attached to a gobo, or it might be attached to the fixture itself, and by the transitive properties of metonyms you end up with a gobo gobo with a gobo on its gobo. I've seen 'parallel cut' used at least three different ways in various textbooks and glossaries. This isn't me claiming that I've got the definitive take on all of these terms, just that, you know, if you heard a term used a different way to describe a different thing chances are you're right, you have and you did, because it's a mess and we're all faking it. 
+
+Written and performed by Dan Olson 
+
+Special thanks to Laura for helping with Brock Mansley. 
+
+Super special thanks to Brock Mansley for coming out of retirement to be the devil on my shoulder. 
+
+Twitter: https://twitter.com/FoldableHuman</description> 
+<pubDate>Mon, 06 Mar 2017 02:40:52 +0000</pubDate> 
+<enclosure url="http://podsync.net/download/g3lOCiiSZ/RzgLbuj6dHM.mp4" length="197400000" type="video/mp4" /> 
+<itunes:author>Jet_so_plus: video editing</itunes:author> 
+<itunes:subtitle>Language of Editing: Basic Cuts</itunes:subtitle> 
+<itunes:summary><![CDATA[Clickbait title: This editor describes basic vocabulary and you won't believe what happens next!
+
+Filmmakers are actually really awful when it comes to vocabulary, re-using words randomly, basically describing anything with whatever word feels right at the time. A gobo is a cucalorus, also called a cookie, that has a focusing mechanism, but a gobo is also a kind of motor, and that motor might be attached to a gobo, or it might be attached to the fixture itself, and by the transitive properties of metonyms you end up with a gobo gobo with a gobo on its gobo. I've seen 'parallel cut' used at least three different ways in various textbooks and glossaries. This isn't me claiming that I've got the definitive take on all of these terms, just that, you know, if you heard a term used a different way to describe a different thing chances are you're right, you have and you did, because it's a mess and we're all faking it.
+
+Written and performed by Dan Olson
+
+Special thanks to Laura for helping with Brock Mansley.
+
+Super special thanks to Brock Mansley for coming out of retirement to be the devil on my shoulder.
+
+Twitter: https://twitter.com/FoldableHuman]]></itunes:summary> 
+<itunes:image href="https://i.ytimg.com/vi/RzgLbuj6dHM/maxresdefault.jpg" /> 
+<itunes:duration>9:24</itunes:duration> 
+<itunes:explicit>no</itunes:explicit> 
+<itunes:order>2</itunes:order> 
+<media:content url="http://podsync.net/download/g3lOCiiSZ/RzgLbuj6dHM.mp4" fileSize="197400000" type="video/mp4" /> 
+</item> 
+<item> 
+<guid>http://podsync.net/download/g3lOCiiSZ/Gh_1m42TSvA.mp4</guid> 
+<title>Editing Lesson with Zach King</title> 
+<link>https://youtube.com/watch?v=Gh_1m42TSvA</link> 
+<description>Zach King teaches about the importance of editing and shares some tips on how to become a great editor. 
+
+Learn More About Filmmaking for Free: http://www.kingfilmschool.com/</description> 
+<pubDate>Wed, 23 Nov 2016 03:26:03 +0000</pubDate> 
+<enclosure url="http://podsync.net/download/g3lOCiiSZ/Gh_1m42TSvA.mp4" length="109900000" type="video/mp4" /> 
+<itunes:author>Jet_so_plus: video editing</itunes:author> 
+<itunes:subtitle>Editing Lesson with Zach King</itunes:subtitle> 
+<itunes:summary><![CDATA[Zach King teaches about the importance of editing and shares some tips on how to become a great editor.
+
+Learn More About Filmmaking for Free: http://www.kingfilmschool.com/]]></itunes:summary> 
+<itunes:image href="https://i.ytimg.com/vi/Gh_1m42TSvA/maxresdefault.jpg" /> 
+<itunes:duration>5:14</itunes:duration> 
+<itunes:explicit>no</itunes:explicit> 
+<itunes:order>3</itunes:order> 
+<media:content url="http://podsync.net/download/g3lOCiiSZ/Gh_1m42TSvA.mp4" fileSize="109900000" type="video/mp4" /> 
+</item> 
+<item> 
+<guid>http://podsync.net/download/g3lOCiiSZ/Wa_VZISu6fc.mp4</guid> 
+<title>History of Video Editing As Fast As Possible</title> 
+<link>https://youtube.com/watch?v=Wa_VZISu6fc</link> 
+<description>Thanks to VideoBlocks for sponsoring this video. For $50 off your first year's membership visit http://vblocks.co/x/techquickie1215 during the month of December! 
+
+Before the advent of video editing, films were very similar to stage plays! How did we get from there to where we are now? 
+
+Follow: http://twitter.com/linustech 
+
+Join the community: http://linustechtips.com 
+
+Licenses for images used: https://creativecommons.org/licenses/by/3.0/legalcode 
+
+https://creativecommons.org/licenses/by/2.0/legalcode</description> 
+<pubDate>Sat, 29 Oct 2016 17:11:33 +0000</pubDate> 
+<enclosure url="http://podsync.net/download/g3lOCiiSZ/Wa_VZISu6fc.mp4" length="173250000" type="video/mp4" /> 
+<itunes:author>Jet_so_plus: video editing</itunes:author> 
+<itunes:subtitle>History of Video Editing As Fast As Possible</itunes:subtitle> 
+<itunes:summary><![CDATA[Thanks to VideoBlocks for sponsoring this video. For $50 off your first year's membership visit http://vblocks.co/x/techquickie1215 during the month of December!
+
+Before the advent of video editing, films were very similar to stage plays! How did we get from there to where we are now?
+
+Follow: http://twitter.com/linustech
+
+Join the community: http://linustechtips.com
+
+Licenses for images used: https://creativecommons.org/licenses/by/3.0/legalcode
+
+https://creativecommons.org/licenses/by/2.0/legalcode]]></itunes:summary> 
+<itunes:image href="https://i.ytimg.com/vi/Wa_VZISu6fc/hqdefault.jpg" /> 
+<itunes:duration>8:15</itunes:duration> 
+<itunes:explicit>no</itunes:explicit> 
+<itunes:order>4</itunes:order> 
+<media:content url="http://podsync.net/download/g3lOCiiSZ/Wa_VZISu6fc.mp4" fileSize="173250000" type="video/mp4" /> 
+</item> 
+<item> 
+<guid>http://podsync.net/download/g3lOCiiSZ/rLrUuod0TCc.mp4</guid> 
+<title>The Magic of Movie Editing Part 2</title> 
+<link>https://youtube.com/watch?v=rLrUuod0TCc</link> 
+<description>See how the pro's edit films in Hollywood</description> 
+<pubDate>Wed, 15 Mar 2017 04:22:05 +0000</pubDate> 
+<enclosure url="http://podsync.net/download/g3lOCiiSZ/rLrUuod0TCc.mp4" length="191450000" type="video/mp4" /> 
+<itunes:author>Jet_so_plus: video editing</itunes:author> 
+<itunes:subtitle>The Magic of Movie Editing Part 2</itunes:subtitle> 
+<itunes:summary><![CDATA[See how the pro's edit films in Hollywood]]></itunes:summary> 
+<itunes:image href="https://i.ytimg.com/vi/rLrUuod0TCc/hqdefault.jpg" /> 
+<itunes:duration>9:07</itunes:duration> 
+<itunes:explicit>no</itunes:explicit> 
+<itunes:order>5</itunes:order> 
+<media:content url="http://podsync.net/download/g3lOCiiSZ/rLrUuod0TCc.mp4" fileSize="191450000" type="video/mp4" /> 
+</item> 
+<item> 
+<guid>http://podsync.net/download/g3lOCiiSZ/3Q3eITC01Fg.mp4</guid> 
+<title>How Does an Editor Think and Feel?</title> 
+<link>https://youtube.com/watch?v=3Q3eITC01Fg</link> 
+<description>For the past ten years, I’ve been editing professionally. Yet one question always stumps me: “How do you know when to cut?” And I can only answer that it’s very instinctual. On some level, I’m just thinking and feeling my way through the edit. So today, I’d like to describe that process: how does an editor think and feel? 
+
+A very special thanks to David Poland for the use of DP/30 clips. 
+And a very special thanks to Aso for the use of his music. 
+
+For educational purposes only. You can donate to support the channel at 
+Patreon: http://www.patreon.com/everyframeapainting 
+
+And you can follow us through 
+Taylor’s Instagram: https://instagram.com/taylor.ramos/ 
+Taylor’s Twitter: https://twitter.com/glassesattached 
+Tony’s Twitter: https://twitter.com/tonyszhou 
+Tony’s Facebook: https://www.facebook.com/everyframeapainting 
+
+Music: 
+Aso - Soul Traveling (Freddie Joachim Remix) 
+Harry James - I’ve Heard That Song Before 
+Harry James - You Made Me Love You 
+Shigeru Umebayashi - Yumeji's Theme 
+Aso - Jazz Intro 
+Nujabes - Perfect Circle (Instrumental) 
+George Benson - On Broadway (Live) 
+
+Interview Clips: 
+DP/30 Michael Kahn (2011) https://www.youtube.com/watch?v=xjdOG-w0Zz4
+Michael Caine - Acting in Film (1987) https://www.youtube.com/watch?v=bZPLVDwEr7Y 
+DP/30 Thelma Schoonmaker (2013) https://www.youtube.com/watch?v=KIKRcV4kHzg 
+DP/30 Thelma Schoonmaker (2011) https://www.youtube.com/watch?v=KgXcpZqQy8M 
+BAFTA - Walter Murch on Editing (2013) https://www.youtube.com/watch?v=WcBpXLNmS3Q 
+
+Recommended Reading &amp; Viewing: 
+On Film Editing by Edward Dmytryk http://amzn.com/dp/0240517385 
+Cut to the Chase by Sam O’Steen &amp; Bobbie O’Steen http://amzn.com/dp/094118837X 
+In the Blink of an Eye by Walter Murch http://amzn.com/dp/1879505622 
+The Conversations with Walter Murch by Michael Ondaatje http://amzn.com/dp/0375709827 
+
+Help us caption &amp; translate this video! 
+
+http://amara.org/v/IWcW/</description> 
+<pubDate>Sat, 29 Oct 2016 17:29:23 +0000</pubDate> 
+<enclosure url="http://podsync.net/download/g3lOCiiSZ/3Q3eITC01Fg.mp4" length="197750000" type="video/mp4" /> 
+<itunes:author>Jet_so_plus: video editing</itunes:author> 
+<itunes:subtitle>How Does an Editor Think and Feel?</itunes:subtitle>
+<itunes:summary><![CDATA[For the past ten years, I’ve been editing professionally. Yet one question always stumps me: “How do you know when to cut?” And I can only answer that it’s very instinctual. On some level, I’m just thinking and feeling my way through the edit. So today, I’d like to describe that process: how does an editor think and feel?
+
+A very special thanks to David Poland for the use of DP/30 clips.
+And a very special thanks to Aso for the use of his music.
+
+For educational purposes only. You can donate to support the channel at
+Patreon: http://www.patreon.com/everyframeapainting
+
+And you can follow us through
+Taylor’s Instagram: https://instagram.com/taylor.ramos/
+Taylor’s Twitter: https://twitter.com/glassesattached
+Tony’s Twitter: https://twitter.com/tonyszhou
+Tony’s Facebook: https://www.facebook.com/everyframeapainting
+
+Music:
+Aso - Soul Traveling (Freddie Joachim Remix)
+Harry James - I’ve Heard That Song Before
+Harry James - You Made Me Love You
+Shigeru Umebayashi - Yumeji's Theme
+Aso - Jazz Intro
+Nujabes - Perfect Circle (Instrumental)
+George Benson - On Broadway (Live)
+
+Interview Clips:
+DP/30 Michael Kahn (2011) https://www.youtube.com/watch?v=xjdOG-w0Zz4
+Michael Caine - Acting in Film (1987) https://www.youtube.com/watch?v=bZPLVDwEr7Y
+DP/30 Thelma Schoonmaker (2013) https://www.youtube.com/watch?v=KIKRcV4kHzg
+DP/30 Thelma Schoonmaker (2011) https://www.youtube.com/watch?v=KgXcpZqQy8M
+BAFTA - Walter Murch on Editing (2013) https://www.youtube.com/watch?v=WcBpXLNmS3Q
+
+Recommended Reading & Viewing:
+On Film Editing by Edward Dmytryk http://amzn.com/dp/0240517385
+Cut to the Chase by Sam O’Steen & Bobbie O’Steen http://amzn.com/dp/094118837X
+In the Blink of an Eye by Walter Murch http://amzn.com/dp/1879505622
+The Conversations with Walter Murch by Michael Ondaatje http://amzn.com/dp/0375709827
+
+Help us caption & translate this video!
+
+http://amara.org/v/IWcW/]]></itunes:summary> 
+<itunes:image href="https://i.ytimg.com/vi/3Q3eITC01Fg/maxresdefault.jpg" /> 
+<itunes:duration>9:25</itunes:duration> 
+<itunes:explicit>no</itunes:explicit> 
+<itunes:order>6</itunes:order> 
+<media:content url="http://podsync.net/download/g3lOCiiSZ/3Q3eITC01Fg.mp4" fileSize="197750000" type="video/mp4" /> 
+</item> 
+<item> 
+<guid>http://podsync.net/download/g3lOCiiSZ/OAH0MoAv2CI.mp4</guid> 
+<title>Cuts &amp; Transitions 101</title> 
+<link>https://youtube.com/watch?v=OAH0MoAv2CI</link> 
+<description>Director/Editor Joey Scoma is here to talk to you about something simple: cuts and transitions. Except... there are so many different kinds!! In this video essay, Joey lists and defines the different cuts and transitions available to you as an editor, with examples from classic and modern films. It's up to you to decide when and why you'd use them! 
+
+What movie is that clip from?! Just turn on Closed Captioning! 
+
+Written and edited by Joey Scoma 
+Assistant edited by Sean Przano 
+
+Joey can answer your editing questions directly here in our forum! 
+http://j.mp/CutsTransitions101 
+
+Want to know more about secrets cuts and the art of editing? Check out these cool videos that we love: 
+
+The Film Theorists - Birdman Secret Edits You Probably Missed: 
+https://www.youtube.com/watch?v=FthEJGR61c8 
+
+The Cutting Edge - Full Documentary: 
+https://www.youtube.com/watch?v=pKKS5ohFo2I 
+
+Special thanks to RØDE Microphones! Check them out here: 
+http://www.rode.com 
+
+Special thanks to Vitec Videocom! Check them out here: http://www.vitecvideocom.com/ 
+
+Questions about our sponsors and how they work? We have an open policy and can answer your questions directly on our forums: http://discuss.rocketjump.com 
+
+We're on Twitch every Thursday at 3PM PST! 
+http://twitch.tv/rocketjump 
+
+You can also follow us on Facebook &amp; Twitter: 
+http://www.facebook.com/RJFilmSchool 
+https://twitter.com/rjfilmschool 
+
+Thanks for watching! More videos at http://school.rocketjump.com!</description> 
+<pubDate>Sat, 29 Oct 2016 17:43:55 +0000</pubDate> 
+<enclosure url="http://podsync.net/download/g3lOCiiSZ/OAH0MoAv2CI.mp4" length="245350000" type="video/mp4" /> 
+<itunes:author>Jet_so_plus: video editing</itunes:author> 
+<itunes:subtitle>Cuts &amp; Transitions 101</itunes:subtitle> 
+<itunes:summary><![CDATA[Director/Editor Joey Scoma is here to talk to you about something simple: cuts and transitions. Except... there are so many different kinds!! In this video essay, Joey lists and defines the different cuts and transitions available to you as an editor, with examples from classic and modern films. It's up to you to decide when and why you'd use them!
+
+What movie is that clip from?! Just turn on Closed Captioning!
+
+Written and edited by Joey Scoma
+Assistant edited by Sean Przano
+
+Joey can answer your editing questions directly here in our forum!
+http://j.mp/CutsTransitions101
+
+Want to know more about secrets cuts and the art of editing? Check out these cool videos that we love:
+
+The Film Theorists - Birdman Secret Edits You Probably Missed:
+https://www.youtube.com/watch?v=FthEJGR61c8
+
+The Cutting Edge - Full Documentary:
+https://www.youtube.com/watch?v=pKKS5ohFo2I
+
+Special thanks to RØDE Microphones! Check them out here:
+http://www.rode.com
+
+Special thanks to Vitec Videocom! Check them out here: http://www.vitecvideocom.com/
+
+Questions about our sponsors and how they work? We have an open policy and can answer your questions directly on our forums: http://discuss.rocketjump.com
+
+We're on Twitch every Thursday at 3PM PST!
+http://twitch.tv/rocketjump
+
+You can also follow us on Facebook & Twitter:
+http://www.facebook.com/RJFilmSchool
+https://twitter.com/rjfilmschool
+
+Thanks for watching! More videos at http://school.rocketjump.com!]]></itunes:summary> 
+<itunes:image href="https://i.ytimg.com/vi/OAH0MoAv2CI/maxresdefault.jpg" /> 
+<itunes:duration>11:41</itunes:duration> 
+<itunes:explicit>no</itunes:explicit> 
+<itunes:order>7</itunes:order> 
+<media:content url="http://podsync.net/download/g3lOCiiSZ/OAH0MoAv2CI.mp4" fileSize="245350000" type="video/mp4" /> 
+</item> 
+<item> 
+<guid>http://podsync.net/download/g3lOCiiSZ/pij5lihbC6k.mp4</guid> 
+<title>Scott Pilgrim: Make Your Transitions Count</title> 
+<link>https://youtube.com/watch?v=pij5lihbC6k</link> 
+<description>Get 10% any purchase here: http://squarespace.com/nerdwriter 
+
+HELP ME MAKE MORE VIDEOS: http://www.patreon.com/nerdwriter 
+
+ASK ME QUESTIONS HERE: http://thenerdwriter.tumblr.com TWITTER: https://twitter.com/TheeNerdwriter 
+
+Email me here: thenerdwriter@gmail.com 
+
+MUSIC: 
+
+Joey Pecoraro, "The Bishop" 
+https://soundcloud.com/joeypecoraro/the-bishop 
+
+mtbrd, "Theme" 
+https://soundcloud.com/mtbrd/theme 
+
+Yuki Ame, "KNW THT" 
+https://soundcloud.com/yukinoame/knw-tht</description> 
+<pubDate>Sat, 29 Oct 2016 17:53:23 +0000</pubDate> 
+<enclosure url="http://podsync.net/download/g3lOCiiSZ/pij5lihbC6k.mp4" length="134050000" type="video/mp4" /> 
+<itunes:author>Jet_so_plus: video editing</itunes:author> 
+<itunes:subtitle>Scott Pilgrim: Make Your Transitions Count</itunes:subtitle> 
+<itunes:summary><![CDATA[Get 10% any purchase here: http://squarespace.com/nerdwriter
+
+HELP ME MAKE MORE VIDEOS: http://www.patreon.com/nerdwriter
+
+ASK ME QUESTIONS HERE: http://thenerdwriter.tumblr.com TWITTER: https://twitter.com/TheeNerdwriter
+
+Email me here: thenerdwriter@gmail.com
+
+MUSIC:
+
+Joey Pecoraro, "The Bishop"
+https://soundcloud.com/joeypecoraro/the-bishop
+
+mtbrd, "Theme"
+https://soundcloud.com/mtbrd/theme
+
+Yuki Ame, "KNW THT"
+https://soundcloud.com/yukinoame/knw-tht]]></itunes:summary> 
+<itunes:image href="https://i.ytimg.com/vi/pij5lihbC6k/hqdefault.jpg" /> 
+<itunes:duration>6:23</itunes:duration> 
+<itunes:explicit>no</itunes:explicit> 
+<itunes:order>8</itunes:order> 
+<media:content url="http://podsync.net/download/g3lOCiiSZ/pij5lihbC6k.mp4" fileSize="134050000" type="video/mp4" /> 
+</item> 
+<item> 
+<guid>http://podsync.net/download/g3lOCiiSZ/3FOzD4Sfgag.mp4</guid> 
+<title>Edgar Wright - How to Do Visual Comedy</title> 
+<link>https://youtube.com/watch?v=3FOzD4Sfgag</link> 
+<description>If you love visual comedy, you gotta love Edgar Wright, one of the few filmmakers who is consistently finding humor through framing, camera movement, editing, goofy sound effects and music. This is an analysis and appreciation of one of our finest comedic voices. 
+
+For educational purposes only. You can donate to support the channel at 
+Patreon: http://www.patreon.com/everyframeapainting 
+
+And follow me here: 
+Twitter: https://twitter.com/tonyszhou 
+Facebook: https://www.facebook.com/everyframeapainting 
+
+For further reading/viewing, I highly recommend 
+David Bordwell's essay on funny framings: http://davidbordwell.net/blog/2007/04/30/funny-framings/ 
+And David Chen's video essay on Wright's use of close-ups: https://vimeo.com/85311313 
+And Ryan Gosling Won't Eat His Cereal: http://www.youtube.com/watch?v=ohJtvuCAsp4 
+
+Music: 
+Sex Bob-omb - We Are Sex Bob-omb 
+Primal Scream - Loaded 
+Tubthumper - Kick Out the Jams 
+Rob Viktum- 4/17/75 
+Pete Woodhead &amp; Daniel Mudford - You've Got Red on You / Shaun of the Dead Suite 
+DJ Shadow - Why Hip Hop Sucks in '96 
+
+Help us caption &amp; translate this video! 
+
+http://amara.org/v/FQRa/</description> 
+<pubDate>Sat, 29 Oct 2016 17:30:59 +0000</pubDate> 
+<enclosure url="http://podsync.net/download/g3lOCiiSZ/3FOzD4Sfgag.mp4" length="168000000" type="video/mp4" /> 
+<itunes:author>Jet_so_plus: video editing</itunes:author> 
+<itunes:subtitle>Edgar Wright - How to Do Visual Comedy</itunes:subtitle> 
+<itunes:summary><![CDATA[If you love visual comedy, you gotta love Edgar Wright, one of the few filmmakers who is consistently finding humor through framing, camera movement, editing, goofy sound effects and music. This is an analysis and appreciation of one of our finest comedic voices.
+
+For educational purposes only. You can donate to support the channel at
+Patreon: http://www.patreon.com/everyframeapainting
+
+And follow me here:
+Twitter: https://twitter.com/tonyszhou
+Facebook: https://www.facebook.com/everyframeapainting
+
+For further reading/viewing, I highly recommend 
+David Bordwell's essay on funny framings: http://davidbordwell.net/blog/2007/04/30/funny-framings/
+And David Chen's video essay on Wright's use of close-ups: https://vimeo.com/85311313
+And Ryan Gosling Won't Eat His Cereal: http://www.youtube.com/watch?v=ohJtvuCAsp4
+
+Music:
+Sex Bob-omb - We Are Sex Bob-omb
+Primal Scream - Loaded
+Tubthumper - Kick Out the Jams
+Rob Viktum- 4/17/75
+Pete Woodhead & Daniel Mudford - You've Got Red on You / Shaun of the Dead Suite
+DJ Shadow - Why Hip Hop Sucks in '96
+
+Help us caption & translate this video!
+
+http://amara.org/v/FQRa/]]></itunes:summary> 
+<itunes:image href="https://i.ytimg.com/vi/3FOzD4Sfgag/maxresdefault.jpg" /> 
+<itunes:duration>8:00</itunes:duration> 
+<itunes:explicit>no</itunes:explicit> 
+<itunes:order>9</itunes:order> 
+<media:content url="http://podsync.net/download/g3lOCiiSZ/3FOzD4Sfgag.mp4" fileSize="168000000" type="video/mp4" /> 
+</item> 
+<item> 
+<guid>http://podsync.net/download/g3lOCiiSZ/Qu6NxHbpBd4.mp4</guid> 
+<title>Tips for Editing Films</title> 
+<link>https://youtube.com/watch?v=Qu6NxHbpBd4</link> 
+<description>Tips for video editors using any editing software. 
+BLOG POST: http://dslrguide.tv/tips-for-editing-films/ ‎ 
+
+10% off Wipster with code 'DSLRGUIDE': 
+http://go.wipster.io/SimonCade 
+(I earn a commission from purchases ^^) 
+
+Host and Creator - Simon Cade 
+Sound by Jamie McK 
+
+WEBSITE: http://dslrguide.tv 
+TWITTER: http://www.twitter.com/dslrguidance 
+INSTAGRAM: http://instagram.com/cadevisuals 
+ALL EQUIPMENT: http://dslrguide.tv/mygear 
+CONTACT: dslrguidance@gmail.com</description> 
+<pubDate>Sat, 29 Oct 2016 17:23:49 +0000</pubDate> 
+<enclosure url="http://podsync.net/download/g3lOCiiSZ/Qu6NxHbpBd4.mp4" length="90300000" type="video/mp4" /> 
+<itunes:author>Jet_so_plus: video editing</itunes:author> 
+<itunes:subtitle>Tips for Editing Films</itunes:subtitle> 
+<itunes:summary><![CDATA[Tips for video editors using any editing software.
+BLOG POST: http://dslrguide.tv/tips-for-editing-films/ ‎
+
+10% off Wipster with code 'DSLRGUIDE':
+http://go.wipster.io/SimonCade 
+(I earn a commission from purchases ^^)
+
+Host and Creator - Simon Cade
+Sound by Jamie McK
+
+WEBSITE: http://dslrguide.tv
+TWITTER: http://www.twitter.com/dslrguidance
+INSTAGRAM: http://instagram.com/cadevisuals
+ALL EQUIPMENT: http://dslrguide.tv/mygear
+CONTACT: dslrguidance@gmail.com]]></itunes:summary> 
+<itunes:image href="https://i.ytimg.com/vi/Qu6NxHbpBd4/maxresdefault.jpg" /> 
+<itunes:duration>4:18</itunes:duration> 
+<itunes:explicit>no</itunes:explicit> 
+<itunes:order>10</itunes:order> 
+<media:content url="http://podsync.net/download/g3lOCiiSZ/Qu6NxHbpBd4.mp4" fileSize="90300000" type="video/mp4" /> 
+</item> 
+<item> 
+<guid>http://podsync.net/download/g3lOCiiSZ/MJQE7Kv-9JU.mp4</guid> 
+<title>ALFRED HITCHCOCK ON 3 THEORIES OF FILM EDITING</title> 
+<link>https://youtube.com/watch?v=MJQE7Kv-9JU</link> 
+<description>A portion of a 1964 interview with Alfred Hitchcock from the CBC TV series "Telescope". Here, Hitchcock discusses three theories of film editing with examples, notably from his 1960 horror-thriller, PSYCHO.</description> 
+<pubDate>Sat, 29 Oct 2016 17:28:49 +0000</pubDate> 
+<enclosure url="http://podsync.net/download/g3lOCiiSZ/MJQE7Kv-9JU.mp4" length="160650000" type="video/mp4" /> 
+<itunes:author>Jet_so_plus: video editing</itunes:author> 
+<itunes:subtitle>ALFRED HITCHCOCK ON 3 THEORIES OF FILM EDITING</itunes:subtitle> 
+<itunes:summary><![CDATA[A portion of a 1964 interview with Alfred Hitchcock from the CBC TV series "Telescope". Here, Hitchcock discusses three theories of film editing with examples, notably from his 1960 horror-thriller, PSYCHO.]]></itunes:summary> 
+<itunes:image href="https://i.ytimg.com/vi/MJQE7Kv-9JU/hqdefault.jpg" /> 
+<itunes:duration>7:39</itunes:duration> 
+<itunes:explicit>no</itunes:explicit> 
+<itunes:order>11</itunes:order> 
+<media:content url="http://podsync.net/download/g3lOCiiSZ/MJQE7Kv-9JU.mp4" fileSize="160650000" type="video/mp4" /> 
+</item> 
+<item> 
+<guid>http://podsync.net/download/g3lOCiiSZ/FwbkWCJgPN0.mp4</guid> 
+<title>The Magic of Movie Editing - Part 3</title> 
+<link>https://youtube.com/watch?v=FwbkWCJgPN0</link> 
+<description>See how the pro's edit in Hollywood.</description> 
+<pubDate>Wed, 15 Mar 2017 04:24:21 +0000</pubDate> 
+<enclosure url="http://podsync.net/download/g3lOCiiSZ/FwbkWCJgPN0.mp4" length="310450000" type="video/mp4" /> 
+<itunes:author>Jet_so_plus: video editing</itunes:author> 
+<itunes:subtitle>The Magic of Movie Editing - Part 3</itunes:subtitle> 
+<itunes:summary><![CDATA[See how the pro's edit in Hollywood.]]></itunes:summary> 
+<itunes:image href="https://i.ytimg.com/vi/FwbkWCJgPN0/hqdefault.jpg" /> 
+<itunes:duration>14:47</itunes:duration> 
+<itunes:explicit>no</itunes:explicit> 
+<itunes:order>12</itunes:order> 
+<media:content url="http://podsync.net/download/g3lOCiiSZ/FwbkWCJgPN0.mp4" fileSize="310450000" type="video/mp4" /> 
+</item> 
+<item> 
+<guid>http://podsync.net/download/g3lOCiiSZ/XNJF_twhKV0.mp4</guid> 
+<title>Die Hard Editing Concepts</title> 
+<link>https://youtube.com/watch?v=XNJF_twhKV0</link> 
+<description>**Turn on CC to see film credits** 
+
+One of the first run-ins Joey had with film editing was through a special feature on the Die Hard 5 Star Collection DVD. It was an interactive "Editing Workshop" which allowed you to choose different takes and angles from two scenes from the movie, and edit each scene together yourself. By comparing the different options available to you against the final film, we get a unique look into the editors' decision-making process. Joey walks us through the workshop to demonstrate these "die-hard" concepts that are essential to film editing, as well as examples of how other films have used them to great effect. 
+
+What have you learned from your favorite movies? Tell us in the forum! 
+http://j.mp/DieHardEditingConcepts 
+
+- - - 
+
+Questions about our sponsors and how they work? A video on that soon, but we have an open policy and can answer your questions directly on our forums: http://discuss.rocketjump.com 
+
+- - - 
+
+Thanks for watching! More videos at http://school.rocketjump.com! 
+
+We're on TWITCH every Thursday at 4PM PST! 
+http://twitch.tv/rocketjump 
+
+You can also follow us on Facebook &amp; Twitter: 
+http://www.facebook.com/RJFilmSchool 
+https://twitter.com/rjfilmschool</description> 
+<pubDate>Sat, 29 Oct 2016 17:50:42 +0000</pubDate> 
+<enclosure url="http://podsync.net/download/g3lOCiiSZ/XNJF_twhKV0.mp4" length="262500000" type="video/mp4" /> 
+<itunes:author>Jet_so_plus: video editing</itunes:author> 
+<itunes:subtitle>Die Hard Editing Concepts</itunes:subtitle> 
+<itunes:summary><![CDATA[**Turn on CC to see film credits**
+
+One of the first run-ins Joey had with film editing was through a special feature on the Die Hard 5 Star Collection DVD. It was an interactive "Editing Workshop" which allowed you to choose different takes and angles from two scenes from the movie, and edit each scene together yourself. By comparing the different options available to you against the final film, we get a unique look into the editors' decision-making process. Joey walks us through the workshop to demonstrate these "die-hard" concepts that are essential to film editing, as well as examples of how other films have used them to great effect. 
+
+What have you learned from your favorite movies? Tell us in the forum!
+http://j.mp/DieHardEditingConcepts
+
+- - -
+
+Questions about our sponsors and how they work? A video on that soon, but we have an open policy and can answer your questions directly on our forums: http://discuss.rocketjump.com
+
+- - -
+
+Thanks for watching! More videos at http://school.rocketjump.com!
+
+We're on TWITCH every Thursday at 4PM PST!
+http://twitch.tv/rocketjump
+
+You can also follow us on Facebook & Twitter:
+http://www.facebook.com/RJFilmSchool
+https://twitter.com/rjfilmschool]]></itunes:summary> 
+<itunes:image href="https://i.ytimg.com/vi/XNJF_twhKV0/maxresdefault.jpg" /> 
+<itunes:duration>12:30</itunes:duration> 
+<itunes:explicit>no</itunes:explicit> 
+<itunes:order>13</itunes:order> 
+<media:content url="http://podsync.net/download/g3lOCiiSZ/XNJF_twhKV0.mp4" fileSize="262500000" type="video/mp4" /> 
+</item> 
+<item> 
+<guid>http://podsync.net/download/g3lOCiiSZ/f78muH3MG7M.mp4</guid> 
+<title>Holding Long and Cutting Short: 2 Brilliant Moments in Editing</title> 
+<link>https://youtube.com/watch?v=f78muH3MG7M</link> 
+<description>This weeks list is a close up look at a pair of brilliant editing moments. One from the film Ida, a cut lingers for what seems like an eternity, the other from No Country For Old Men, where the edit cuts short to remarkable effect. 
+
+Let us know what you think about these 2 moments and also be sure to let us know if you have any other great moments of holding long or cutting short that we didn't mention. 
+
+As always, subscribe to Cinefix for more of our Movielists and Brilliant Moments! 
+
+More Recent Cinefix Videos: 
+
+Things You Didn't Know About Jaws! 
+https://youtu.be/J-kDfBjy1oU 
+
+Make You Own Mega Man Costume 
+https://youtu.be/hoL5FPWMATk 
+
+Star Trek Beyond - CineFix Review! 
+https://youtu.be/tuKQZTJS8kk 
+
+The Infiltrator - CineFix Review! 
+https://youtu.be/YZbbnpCLvUM 
+
+Make Leeloo Dallas’ Costume from The Fifth Element - DIY Costume Squad 
+https://youtu.be/q6ioCqJixYk 
+
+7 Scariest Movie Moments of All Time 
+https://youtu.be/cAWttx6JJQE 
+
+The Bourne Identity - What's the Difference? 
+https://www.youtube.com/watch?v=ogrrJujAcLQ 
+
+DIY Costume Squad - Poe Dameron's X-Wing Suit! 
+https://www.youtube.com/watch?v=D19-Y7zaGPE 
+
+Ghostbusters Review! 
+https://www.youtube.com/watch?v=vjwtJSyLTLY 
+
+7 Things You Didn't Know About Star Trek! 
+https://www.youtube.com/watch?v=T_Wx0DD8oWk 
+
+3 Brilliant Moments from Game of Thrones! 
+https://www.youtube.com/watch?v=F8hExR0NXGI 
+
+Things You Didn't Know About the Rock! 
+https://www.youtube.com/watch?v=vLOPx06-Hh0</description> 
+<pubDate>Sat, 29 Oct 2016 17:30:41 +0000</pubDate> 
+<enclosure url="http://podsync.net/download/g3lOCiiSZ/f78muH3MG7M.mp4" length="200900000" type="video/mp4" /> 
+<itunes:author>Jet_so_plus: video editing</itunes:author> 
+<itunes:subtitle>Holding Long and Cutting Short: 2 Brilliant Moments in Editing</itunes:subtitle> 
+<itunes:summary><![CDATA[This weeks list is a close up look at a pair of brilliant editing moments. One from the film Ida, a cut lingers for what seems like an eternity, the other from No Country For Old Men, where the edit cuts short to remarkable effect.
+
+Let us know what you think about these 2 moments and also be sure to let us know if you have any other great moments of holding long or cutting short that we didn't mention. 
+
+As always, subscribe to Cinefix for more of our Movielists and Brilliant Moments!
+
+More Recent Cinefix Videos:
+
+Things You Didn't Know About Jaws!
+https://youtu.be/J-kDfBjy1oU
+
+Make You Own Mega Man Costume
+https://youtu.be/hoL5FPWMATk
+
+Star Trek Beyond - CineFix Review!
+https://youtu.be/tuKQZTJS8kk
+
+The Infiltrator - CineFix Review!
+https://youtu.be/YZbbnpCLvUM
+
+Make Leeloo Dallas’ Costume from The Fifth Element - DIY Costume Squad
+https://youtu.be/q6ioCqJixYk
+
+7 Scariest Movie Moments of All Time
+https://youtu.be/cAWttx6JJQE
+
+The Bourne Identity - What's the Difference?
+https://www.youtube.com/watch?v=ogrrJujAcLQ
+
+DIY Costume Squad - Poe Dameron's X-Wing Suit!
+https://www.youtube.com/watch?v=D19-Y7zaGPE
+
+Ghostbusters Review!
+https://www.youtube.com/watch?v=vjwtJSyLTLY
+
+7 Things You Didn't Know About Star Trek!
+https://www.youtube.com/watch?v=T_Wx0DD8oWk
+
+3 Brilliant Moments from Game of Thrones!
+https://www.youtube.com/watch?v=F8hExR0NXGI
+
+Things You Didn't Know About the Rock!
+https://www.youtube.com/watch?v=vLOPx06-Hh0]]></itunes:summary> 
+<itunes:image href="https://i.ytimg.com/vi/f78muH3MG7M/maxresdefault.jpg" /> 
+<itunes:duration>9:34</itunes:duration> 
+<itunes:explicit>no</itunes:explicit> 
+<itunes:order>14</itunes:order> 
+<media:content url="http://podsync.net/download/g3lOCiiSZ/f78muH3MG7M.mp4" fileSize="200900000" type="video/mp4" /> 
+</item> 
+<item> 
+<guid>http://podsync.net/download/g3lOCiiSZ/XafunNmwtPg.mp4</guid> 
+<title>A Few SIMPLE TIPS For Becoming a BETTER EDITOR! - Friday 101</title> 
+<link>https://youtube.com/watch?v=XafunNmwtPg</link> 
+<description>This week, Russell does his first "Chopping Block" segment, dissecting two movies submitted by viewers to illustrate a few simple tips that can help you improve as an editor: Dialogue Overlap, Cutting the Fat, and "Killing Your Babies" (Not literally, it's a film term. I swear!) 
+
+If you have a question, are seeking advice (FILMMAKING advice, Russ is NOT, in fact, a licensed therapist), or were just wondering about anything at all film or video related, send an email to: 
+FRIDAY101MAIL@Gmail.com 
+Even quick, simple questions will do. 
+
+Have something to add to any of the topics we discussed on this episode? Send us a video response, or a Youtube link via email, and record yourself weighing in! If we like it, we'll add it to the links at the end of the episode! 
+
+If you have made a movie and want advice as to how it could be better, send a Youtube link, listed or unlisted, to: 
+FRIDAY101MAIL@Gmail.com 
+and let Russell know you want your movie put on THE CHOPPING BLOCK! 
+
+Intro Video by Anthony De Coninck (aka Stylow) 
+http://www.youtube.com/stylowarts 
+
+Music by Abhilash Buch 
+http://www.soundcloud.com/SoapAndFoam 
+
+Additional Music by Kevin MacLeod 
+http://www.incompetech.com 
+
+THIS WEEK'S VIDEO LINKS: 
+
+DougTheGoat's "Cat Vase": 
+ORIGINAL VERSION - http://www.youtube.com/watch?v=5H_1UM5v8pg 
+RE-EDITED VERSION - http://www.youtube.com/watch?v=XRYZjK1Ni_k 
+
+Kwaminax's "You're Doing It Wrong" 
+ORIGINAL VERSION - http://www.youtube.com/watch?v=lnt9c0yzSS8 
+RE-EDITED VERSION - http://www.youtube.com/watch?v=AZyr77TeCAA</description> 
+<pubDate>Sat, 29 Oct 2016 17:42:17 +0000</pubDate> 
+<enclosure url="http://podsync.net/download/g3lOCiiSZ/XafunNmwtPg.mp4" length="166250000" type="video/mp4" /> 
+<itunes:author>Jet_so_plus: video editing</itunes:author> 
+<itunes:subtitle>A Few SIMPLE TIPS For Becoming a BETTER EDITOR! - Friday 101</itunes:subtitle> 
+<itunes:summary><![CDATA[This week, Russell does his first "Chopping Block" segment, dissecting two movies submitted by viewers to illustrate a few simple tips that can help you improve as an editor: Dialogue Overlap, Cutting the Fat, and "Killing Your Babies" (Not literally, it's a film term. I swear!)
+
+If you have a question, are seeking advice (FILMMAKING advice, Russ is NOT, in fact, a licensed therapist), or were just wondering about anything at all film or video related, send an email to:
+FRIDAY101MAIL@Gmail.com
+Even quick, simple questions will do.
+
+Have something to add to any of the topics we discussed on this episode? Send us a video response, or a Youtube link via email, and record yourself weighing in! If we like it, we'll add it to the links at the end of the episode!
+
+If you have made a movie and want advice as to how it could be better, send a Youtube link, listed or unlisted, to:
+FRIDAY101MAIL@Gmail.com
+and let Russell know you want your movie put on THE CHOPPING BLOCK!
+
+Intro Video by Anthony De Coninck (aka Stylow)
+http://www.youtube.com/stylowarts
+
+Music by Abhilash Buch
+http://www.soundcloud.com/SoapAndFoam
+
+Additional Music by Kevin MacLeod
+http://www.incompetech.com
+
+THIS WEEK'S VIDEO LINKS:
+
+DougTheGoat's "Cat Vase":
+ORIGINAL VERSION - http://www.youtube.com/watch?v=5H_1UM5v8pg
+RE-EDITED VERSION - http://www.youtube.com/watch?v=XRYZjK1Ni_k
+
+Kwaminax's "You're Doing It Wrong"
+ORIGINAL VERSION - http://www.youtube.com/watch?v=lnt9c0yzSS8
+RE-EDITED VERSION - http://www.youtube.com/watch?v=AZyr77TeCAA]]></itunes:summary> 
+<itunes:image href="https://i.ytimg.com/vi/XafunNmwtPg/maxresdefault.jpg" /> 
+<itunes:duration>7:55</itunes:duration> 
+<itunes:explicit>no</itunes:explicit> 
+<itunes:order>15</itunes:order> 
+<media:content url="http://podsync.net/download/g3lOCiiSZ/XafunNmwtPg.mp4" fileSize="166250000" type="video/mp4" /> 
+</item> 
+<item> 
+<guid>http://podsync.net/download/g3lOCiiSZ/6mvjS-sl39E.mp4</guid> 
+<title>Film Editing Techniques - How to Edit a Scene</title> 
+<link>https://youtube.com/watch?v=6mvjS-sl39E</link> 
+<description>A film editor on how to cut a scene of the upcoming feature "Flesh &amp; Blood" directed by Sundance alum Mark Webber. Learn about editing techniques, coverage, scene building and storytelling. 
+
+THIS GUY EDITS (TGE) is a youtube channel by film editor Sven Pape, an A.C.E. award nominee, whose credits include work for directors James Cameron, Joseph Gordon-Levitt and James Franco. 
+
+TGE is not about how to run a piece of software, but rather how to tell stories creatively. 
+
+Sven cuts his latest film for Sundance filmmaker Mark Webber. “Flesh &amp; Blood” is their third collaboration. 
+
+Film Editing Book Recommendation - "In the Blink of an Eye" by Walter Murch: http://amzn.to/20ujg6B 
+
+Several times a week TGE will post update videos. You get to see the timeline and the editor's play-by-play-commentary as he cuts scenes. It shows work in progress. 
+
+★- - - - - - - - - - - - - - - - - - - - - - - - - - - ★ 
+Want More THIS GUY EDITS? 
+☆Connect With Me On My:☆ 
+➜ CHANNEL- 
+https://www.youtube.com/user/svenpape 
+
+➜ INSTAGRAM- 
+http://instagram.com/thisguyedits# 
+➜ TWITTER- 
+https://twitter.com/thisguyedits 
+➜ FACEBOOK GROUP- 
+https://www.facebook.com/groups/512738898932998/ 
+★- - - - - - - - - - - - - - - - - - - - - - - - - - - ★ 
+
+All Rights Reserved 
+© Copyright 2016 This Guy Edits™ 
+
+For example TGE puts Walter Murch’s theory of “The Blink of an Eye” to the test. Another segment reveals editing tips on how to dramatically get into and out of scene. A future episode includes David Mamet’s philosophy on scene writing as it applies to editing. 
+
+To get regular updates on the project subscribe to the channel here: 
+http://www.youtube.com/svenpape 
+
+Editing Software: Final Cut Pro X 
+
+----------------------------------- 
+
+Want mentorship, consultation, and deeper insights? 
+
+If you like This Guy Edits consider becoming a Patreon member. You support the channel and in return I give you my personal attention. 
+Currently many of the 67 patrons enjoy direct feedback on their work, get real-life footage for editing exercises, and career advise. 
+
+Patrons can always get hold off me through the private Discord channel (and I hold monthly Skype calls with higher-tier patrons). 
+
+Visit Patreon to learn more here: https://www.patreon.com/thisguyedits</description> 
+<pubDate>Sat, 29 Oct 2016 17:49:15 +0000</pubDate> 
+<enclosure url="http://podsync.net/download/g3lOCiiSZ/6mvjS-sl39E.mp4" length="361200000" type="video/mp4" /> 
+<itunes:author>Jet_so_plus: video editing</itunes:author> 
+<itunes:subtitle>Film Editing Techniques - How to Edit a Scene</itunes:subtitle> 
+<itunes:summary><![CDATA[A film editor on how to cut a scene of the upcoming feature "Flesh & Blood" directed by Sundance alum Mark Webber. Learn about editing techniques, coverage, scene building and storytelling.
+
+THIS GUY EDITS (TGE) is a youtube channel by film editor Sven Pape, an A.C.E. award nominee, whose credits include work for directors James Cameron, Joseph Gordon-Levitt and James Franco.
+
+TGE is not about how to run a piece of software, but rather how to tell stories creatively. 
+
+Sven cuts his latest film for Sundance filmmaker Mark Webber. “Flesh & Blood” is their third collaboration. 
+
+Film Editing Book Recommendation - "In the Blink of an Eye" by Walter Murch: http://amzn.to/20ujg6B
+
+Several times a week TGE will post update videos. You get to see the timeline and the editor's play-by-play-commentary as he cuts scenes. It shows work in progress.
+
+★- - - - - - - - - - - - - - - - - - - - - - - - - - - ★
+Want More THIS GUY EDITS?
+☆Connect With Me On My:☆
+➜ CHANNEL-
+https://www.youtube.com/user/svenpape
+
+➜ INSTAGRAM- 
+http://instagram.com/thisguyedits#
+➜ TWITTER-
+https://twitter.com/thisguyedits
+➜ FACEBOOK GROUP-
+https://www.facebook.com/groups/512738898932998/
+★- - - - - - - - - - - - - - - - - - - - - - - - - - - ★
+
+All Rights Reserved
+© Copyright 2016 This Guy Edits™
+
+For example TGE puts Walter Murch’s theory of “The Blink of an Eye” to the test. Another segment reveals editing tips on how to dramatically get into and out of scene. A future episode includes David Mamet’s philosophy on scene writing as it applies to editing. 
+
+To get regular updates on the project subscribe to the channel here: 
+http://www.youtube.com/svenpape
+
+Editing Software: Final Cut Pro X
+
+-----------------------------------
+
+Want mentorship, consultation, and deeper insights?
+
+If you like This Guy Edits consider becoming a Patreon member. You support the channel and in return I give you my personal attention.
+Currently many of the 67 patrons enjoy direct feedback on their work, get real-life footage for editing exercises, and career advise. 
+
+Patrons can always get hold off me through the private Discord channel (and I hold monthly Skype calls with higher-tier patrons).
+
+Visit Patreon to learn more here: https://www.patreon.com/thisguyedits]]></itunes:summary> 
+<itunes:image href="https://i.ytimg.com/vi/6mvjS-sl39E/maxresdefault.jpg" /> 
+<itunes:duration>17:12</itunes:duration> 
+<itunes:explicit>no</itunes:explicit> 
+<itunes:order>16</itunes:order> 
+<media:content url="http://podsync.net/download/g3lOCiiSZ/6mvjS-sl39E.mp4" fileSize="361200000" type="video/mp4" /> 
+</item> 
+<item> 
+<guid>http://podsync.net/download/g3lOCiiSZ/OIV9IjulVi8.mp4</guid> 
+<title>How Do You Edit an Animated Film?</title> 
+<link>https://youtube.com/watch?v=OIV9IjulVi8</link> 
+<description>Here's a question you may never have thought about before: what does an animation editor actually do? If scenes are just written and then animated, is their role any more than just connecting clips together? On the contrary, the role of an animation editor is actually one of the most important roles in shaping the film being made. Let's dive in and explore the job. 
+
+You can support this channel at Patreon- http://bit.ly/2v27J8x 
+
+For educational purposes only. Press the CC button for film titles. 
+
+Interviews- 
+
+The Cutting Room: Ken Schretzmann- see podcast on iTunes 
+Moviola: John Venzon- http://bit.ly/2il5Biv 
+Westminster Town Hall: Pete Docter- http://bit.ly/2iRdZd4 
+DP/30: Lee Unkrich- http://bit.ly/2hYM8rH 
+Manhattan Edit Workshop: Andrew Weisblum- http://bit.ly/2iKJk0A 
+
+Sources/Further Reading- 
+
+DisneyWar by James B. Stewart- http://amzn.to/2hZzDqO 
+Cut and Drawn: An Animated Evening With Editors by Michael Kunkes- http://bit.ly/2i1u9zi 
+Perspectives on Editing: An Animated Conversation by Michael Kunkes- http://bit.ly/2iZxDkk 
+
+You can follow me through: 
+Twitter- https://twitter.com/andymsaladino 
+Vimeo- https://vimeo.com/user45324876</description> 
+<pubDate>Fri, 27 Jan 2017 04:13:46 +0000</pubDate> 
+<enclosure url="http://podsync.net/download/g3lOCiiSZ/OIV9IjulVi8.mp4" length="165200000" type="video/mp4" /> 
+<itunes:author>Jet_so_plus: video editing</itunes:author> 
+<itunes:subtitle>How Do You Edit an Animated Film?</itunes:subtitle> 
+<itunes:summary><![CDATA[Here's a question you may never have thought about before: what does an animation editor actually do? If scenes are just written and then animated, is their role any more than just connecting clips together? On the contrary, the role of an animation editor is actually one of the most important roles in shaping the film being made. Let's dive in and explore the job.
+
+You can support this channel at Patreon- http://bit.ly/2v27J8x
+
+For educational purposes only. Press the CC button for film titles.
+
+Interviews-
+
+The Cutting Room: Ken Schretzmann- see podcast on iTunes
+Moviola: John Venzon- http://bit.ly/2il5Biv 
+Westminster Town Hall: Pete Docter- http://bit.ly/2iRdZd4 
+DP/30: Lee Unkrich- http://bit.ly/2hYM8rH 
+Manhattan Edit Workshop: Andrew Weisblum- http://bit.ly/2iKJk0A 
+
+Sources/Further Reading-
+
+DisneyWar by James B. Stewart- http://amzn.to/2hZzDqO 
+Cut and Drawn: An Animated Evening With Editors by Michael Kunkes- http://bit.ly/2i1u9zi 
+Perspectives on Editing: An Animated Conversation by Michael Kunkes- http://bit.ly/2iZxDkk 
+
+You can follow me through:
+Twitter- https://twitter.com/andymsaladino
+Vimeo- https://vimeo.com/user45324876]]></itunes:summary> 
+<itunes:image href="https://i.ytimg.com/vi/OIV9IjulVi8/maxresdefault.jpg" /> 
+<itunes:duration>7:52</itunes:duration> 
+<itunes:explicit>no</itunes:explicit> 
+<itunes:order>17</itunes:order> 
+<media:content url="http://podsync.net/download/g3lOCiiSZ/OIV9IjulVi8.mp4" fileSize="165200000" type="video/mp4" /> 
+</item> 
+<item> 
+<guid>http://podsync.net/download/g3lOCiiSZ/aXgFcNUWqX0.mp4</guid> 
+<title>Colour In Storytelling | CRISWELL | Cinema Cartography</title>
+<link>https://youtube.com/watch?v=aXgFcNUWqX0</link> 
+<description>Support this Channel on Patreon: 
+
+https://www.patreon.com/cinemacartography 
+
+For business inquiries: contact@cinemacartography.com 
+
+Press CC to see a list of the movies shown. 
+
+TRACKLIST: 
+0:00-3:10 Aphex Twin - Avril 14th 
+3:15-8:49 Childish Gambino - Flight of The Navigator 
+8:50-14:12 Daft Punk - Veridis Quo 
+14:13-15:45 Kanye West - Only One 
+15:48-16:24 Joji Miller - Medicine</description> 
+<pubDate>Sat, 29 Oct 2016 17:28:57 +0000</pubDate> 
+<enclosure url="http://podsync.net/download/g3lOCiiSZ/aXgFcNUWqX0.mp4" length="344750000" type="video/mp4" /> 
+<itunes:author>Jet_so_plus: video editing</itunes:author> 
+<itunes:subtitle>Colour In Storytelling | CRISWELL | Cinema Cartography</itunes:subtitle> 
+<itunes:summary><![CDATA[Support this Channel on Patreon: 
+
+https://www.patreon.com/cinemacartography
+
+For business inquiries: contact@cinemacartography.com
+
+Press CC to see a list of the movies shown.
+
+TRACKLIST:
+0:00-3:10 Aphex Twin - Avril 14th
+3:15-8:49 Childish Gambino - Flight of The Navigator
+8:50-14:12 Daft Punk - Veridis Quo
+14:13-15:45 Kanye West - Only One
+15:48-16:24 Joji Miller - Medicine]]></itunes:summary> 
+<itunes:image href="https://i.ytimg.com/vi/aXgFcNUWqX0/maxresdefault.jpg" /> 
+<itunes:duration>16:25</itunes:duration> 
+<itunes:explicit>no</itunes:explicit> 
+<itunes:order>18</itunes:order> 
+<media:content url="http://podsync.net/download/g3lOCiiSZ/aXgFcNUWqX0.mp4" fileSize="344750000" type="video/mp4" /> 
+</item> 
+<item> 
+<guid>http://podsync.net/download/g3lOCiiSZ/tILIeNjbH1E.mp4</guid> 
+<title>10 Best Uses of Color of All Time</title> 
+<link>https://youtube.com/watch?v=tILIeNjbH1E</link> 
+<description>Color is one of the most effective tools in a storyteller's arsenal. From fiery red, to the coldest blue, a great filmmaker knows just what colors to paint on the screen. Move over light and shadow, lets take the color wheel for a spin! Here are the very best uses of color in a movie ever! 
+
+More episodes: 
+https://www.youtube.com/playlist?list=PL1AXWu-gGX6IcOGt0yaA9Cd_hkt_TwQlC 
+
+Subscribe for new episodes: 
+http://goo.gl/9AGRm 
+
+Follow us Twitter: 
+https://twitter.com/CineFixNetwork 
+
+Oh, and we're on the Facebook: 
+http://www.facebook.com/CineFixNetwork 
+
+More Recent CineFix Videos: 
+
+Indiana Jones as a Bourne Movie - Trailer Mix 
+https://www.youtube.com/watch?v=Nt2QOd79yV8&amp;t=5s 
+
+Captain America: Civil War - Homemade Shot for Shot 
+https://youtu.be/oEcjBYz474s 
+
+The Top 15 BEST Movies of 2016! - CineFix Staff Picks 
+https://youtu.be/pPzIm6aXQfU 
+
+Make Your Own Captain America Costume - DIY Costume Squad 
+https://www.youtube.com/watch?v=XcNgx... 
+
+Rogue One: A Star Wars Story - CineFix Roundtable 
+https://youtu.be/pPVh9b4rtrY</description> 
+<pubDate>Sun, 29 Jan 2017 21:05:31 +0000</pubDate> 
+<enclosure url="http://podsync.net/download/g3lOCiiSZ/tILIeNjbH1E.mp4" length="273350000" type="video/mp4" /> 
+<itunes:author>Jet_so_plus: video editing</itunes:author> 
+<itunes:subtitle>10 Best Uses of Color of All Time</itunes:subtitle> 
+<itunes:summary><![CDATA[Color is one of the most effective tools in a storyteller's arsenal. From fiery red, to the coldest blue, a great filmmaker knows just what colors to paint on the screen. Move over light and shadow, lets take the color wheel for a spin! Here are the very best uses of color in a movie ever!
+
+More episodes:
+https://www.youtube.com/playlist?list=PL1AXWu-gGX6IcOGt0yaA9Cd_hkt_TwQlC
+
+Subscribe for new episodes: 
+http://goo.gl/9AGRm
+
+Follow us Twitter:
+https://twitter.com/CineFixNetwork
+
+Oh, and we're on the Facebook:
+http://www.facebook.com/CineFixNetwork
+
+More Recent CineFix Videos:
+
+Indiana Jones as a Bourne Movie - Trailer Mix
+https://www.youtube.com/watch?v=Nt2QOd79yV8&t=5s
+
+Captain America: Civil War - Homemade Shot for Shot
+https://youtu.be/oEcjBYz474s
+
+The Top 15 BEST Movies of 2016! - CineFix Staff Picks
+https://youtu.be/pPzIm6aXQfU
+
+Make Your Own Captain America Costume - DIY Costume Squad
+https://www.youtube.com/watch?v=XcNgx...
+
+Rogue One: A Star Wars Story - CineFix Roundtable
+https://youtu.be/pPVh9b4rtrY]]></itunes:summary> 
+<itunes:image href="https://i.ytimg.com/vi/tILIeNjbH1E/maxresdefault.jpg" /> 
+<itunes:duration>13:01</itunes:duration> 
+<itunes:explicit>no</itunes:explicit> 
+<itunes:order>19</itunes:order> 
+<media:content url="http://podsync.net/download/g3lOCiiSZ/tILIeNjbH1E.mp4" fileSize="273350000" type="video/mp4" /> 
+</item> 
+<item> 
+<guid>http://podsync.net/download/g3lOCiiSZ/LcUoVZwLUOE.mp4</guid> 
+<title>Editing: Why Game On &amp; Citation Needed Take So Long</title> 
+<link>https://youtube.com/watch?v=LcUoVZwLUOE</link> 
+<description>We explain our editing process, and why it takes a long time between filming a series and releasing it. 
+
+Want to know what equipment we use? Watch this previous Park Bench! 
+The Kit List: https://www.youtube.com/watch?v=wNIMMgcifqs 
+
+
+MATT: http://youtube.com/unnamedculprit | TOM: http://youtube.com/TomScottGo</description> 
+<pubDate>Sat, 29 Oct 2016 17:00:34 +0000</pubDate> 
+<enclosure url="http://podsync.net/download/g3lOCiiSZ/LcUoVZwLUOE.mp4" length="316750000" type="video/mp4" /> 
+<itunes:author>Jet_so_plus: video editing</itunes:author> 
+<itunes:subtitle>Editing: Why Game On &amp; Citation Needed Take So Long</itunes:subtitle> 
+<itunes:summary><![CDATA[We explain our editing process, and why it takes a long time between filming a series and releasing it.
+
+Want to know what equipment we use? Watch this previous Park Bench!
+The Kit List: https://www.youtube.com/watch?v=wNIMMgcifqs
+
+
+MATT: http://youtube.com/unnamedculprit | TOM: http://youtube.com/TomScottGo]]></itunes:summary> 
+<itunes:image href="https://i.ytimg.com/vi/LcUoVZwLUOE/maxresdefault.jpg" /> 
+<itunes:duration>15:05</itunes:duration> 
+<itunes:explicit>no</itunes:explicit> 
+<itunes:order>20</itunes:order> 
+<media:content url="http://podsync.net/download/g3lOCiiSZ/LcUoVZwLUOE.mp4" fileSize="316750000" type="video/mp4" /> 
+</item> 
+<item> 
+<guid>http://podsync.net/download/g3lOCiiSZ/0IvhlF2wobo.mp4</guid> 
+<title>Editing: Creating the "OH F**K" Moment</title> 
+<link>https://youtube.com/watch?v=0IvhlF2wobo</link> 
+<description>In this video, Director/Editor Joey Scoma walks us through a few classic scenes in cinema that demonstrate editing as an effective storytelling tool, and focuses in on a specific technique that he likes to call “The “Oh F**K” Moment.” 
+
+Editing is about controlling information – it determines how, when and why we see certain pieces of information or story. There are many different styles and techniques within the art of editing to accomplish this, but the main purpose of each of them is to further the story. In other words: “You need a reason to cut.” 
+
+Questions for Joey? Want to dissect these scenes a little further? Talk with RJFS directly in our forums: http://bit.ly/1h46jim 
+
+Some other resources to check out: 
+Hitchcock Interview about Editing http://bit.ly/1Jir9TT 
+The Cutting Edge documentary http://bit.ly/1VmDOdb 
+
+Happy cutting! And watch out for the Sundance Kid. 
+
+Very special thanks to RØDE Microphones! Check them out here: 
+http://www.rode.com 
+
+Thanks for watching! More videos at http://school.rocketjump.com! 
+
+You can also follow us on Facebook &amp; Twitter: 
+http://www.facebook.com/RJFilmSchool 
+https://twitter.com/rjfilmschool</description> 
+<pubDate>Sat, 29 Oct 2016 17:51:31 +0000</pubDate> 
+<enclosure url="http://podsync.net/download/g3lOCiiSZ/0IvhlF2wobo.mp4" length="172900000" type="video/mp4" /> 
+<itunes:author>Jet_so_plus: video editing</itunes:author> 
+<itunes:subtitle>Editing: Creating the "OH F**K" Moment</itunes:subtitle> 
+<itunes:summary><![CDATA[In this video, Director/Editor Joey Scoma walks us through a few classic scenes in cinema that demonstrate editing as an effective storytelling tool, and focuses in on a specific technique that he likes to call “The “Oh F**K” Moment.”
+
+Editing is about controlling information – it determines how, when and why we see certain pieces of information or story. There are many different styles and techniques within the art of editing to accomplish this, but the main purpose of each of them is to further the story. In other words: “You need a reason to cut.”
+
+Questions for Joey? Want to dissect these scenes a little further? Talk with RJFS directly in our forums: http://bit.ly/1h46jim
+
+Some other resources to check out:
+Hitchcock Interview about Editing http://bit.ly/1Jir9TT
+The Cutting Edge documentary http://bit.ly/1VmDOdb
+
+Happy cutting! And watch out for the Sundance Kid.
+
+Very special thanks to RØDE Microphones! Check them out here:
+http://www.rode.com
+
+Thanks for watching! More videos at http://school.rocketjump.com!
+
+You can also follow us on Facebook & Twitter:
+http://www.facebook.com/RJFilmSchool
+https://twitter.com/rjfilmschool]]></itunes:summary> 
+<itunes:image href="https://i.ytimg.com/vi/0IvhlF2wobo/maxresdefault.jpg" /> 
+<itunes:duration>8:14</itunes:duration> 
+<itunes:explicit>no</itunes:explicit> 
+<itunes:order>21</itunes:order> 
+<media:content url="http://podsync.net/download/g3lOCiiSZ/0IvhlF2wobo.mp4" fileSize="172900000" type="video/mp4" /> 
+</item> 
+<item> 
+<guid>http://podsync.net/download/g3lOCiiSZ/H_19rSdEWao.mp4</guid> 
+<title>Why Do Action Scenes Suck?</title> 
+<link>https://youtube.com/watch?v=H_19rSdEWao</link> 
+<description>Blowing up a building isn't enough, we need to know why.
+Consider Donating to Support Our Videos: 
+http://www.patreon.com/CorridorDigital 
+
+Subscribe for more Videos! 
+https://www.youtube.com/subscription_center?add_user=samandniko 
+
+WATCH Our Latest Video: https://www.youtube.com/watch?v=zwQOBxOXOdE 
+
+**New Video Every Week!** 
+
+
+
+*More Links* 
+
+Our Facebook: 
+https://www.facebook.com/corridordigital 
+
+Tweet us at: 
+https://twitter.com/corridordigital 
+
+Cool Shirts: 
+http://www.corridor-digital.com/collections/frontpage 
+
+Powered by Origin: 
+http://www.originpc.com/</description> 
+<pubDate>Sat, 29 Oct 2016 17:58:23 +0000</pubDate> 
+<enclosure url="http://podsync.net/download/g3lOCiiSZ/H_19rSdEWao.mp4" length="158900000" type="video/mp4" /> 
+<itunes:author>Jet_so_plus: video editing</itunes:author> 
+<itunes:subtitle>Why Do Action Scenes Suck?</itunes:subtitle> 
+<itunes:summary><![CDATA[Blowing up a building isn't enough, we need to know why.
+Consider Donating to Support Our Videos: 
+http://www.patreon.com/CorridorDigital
+
+Subscribe for more Videos!
+https://www.youtube.com/subscription_center?add_user=samandniko
+
+WATCH Our Latest Video: https://www.youtube.com/watch?v=zwQOBxOXOdE
+
+**New Video Every Week!**
+
+
+
+*More Links*
+
+Our Facebook:
+https://www.facebook.com/corridordigital
+
+Tweet us at:
+https://twitter.com/corridordigital
+
+Cool Shirts:
+http://www.corridor-digital.com/collections/frontpage
+
+Powered by Origin:
+http://www.originpc.com/]]></itunes:summary> 
+<itunes:image href="https://i.ytimg.com/vi/H_19rSdEWao/maxresdefault.jpg" /> 
+<itunes:duration>7:34</itunes:duration> 
+<itunes:explicit>no</itunes:explicit> 
+<itunes:order>22</itunes:order> 
+<media:content url="http://podsync.net/download/g3lOCiiSZ/H_19rSdEWao.mp4" fileSize="158900000" type="video/mp4" /> 
+</item> 
+<item> 
+<guid>http://podsync.net/download/g3lOCiiSZ/NUrTRjEXjSM.mp4</guid> 
+<title>Martin Scorsese - The Art of Silence</title> 
+<link>https://youtube.com/watch?v=NUrTRjEXjSM</link> 
+<description>Even though Martin Scorsese is famous for his use of music, one of his best traits is his deliberate and powerful use of silence. Take a glimpse at fifty years of this simple technique from one of cinema's masters. SPOILERS for Shutter Island (2010), Superman (1978) and Man of Steel (2013) 
+
+For educational purposes only. You can donate to support the channel at 
+Patreon: http://www.patreon.com/everyframeapainting 
+
+And follow me here: 
+Twitter: https://twitter.com/tonyszhou 
+Facebook: https://www.facebook.com/everyframeapainting 
+
+For bringing this idea to my attention, credit goes to John Pozer: https://twitter.com/Pozervision 
+Written interview with Scorsese about silence (&amp; other things): http://1.usa.gov/1lAq00I 
+Video interview with sound designer Randy Thom: http://bit.ly/1qOkbwQ
+
+Help us caption &amp; translate this video! 
+
+http://amara.org/v/GJaH/</description> 
+<pubDate>Sat, 29 Oct 2016 17:38:55 +0000</pubDate> 
+<enclosure url="http://podsync.net/download/g3lOCiiSZ/NUrTRjEXjSM.mp4" length="129150000" type="video/mp4" /> 
+<itunes:author>Jet_so_plus: video editing</itunes:author> 
+<itunes:subtitle>Martin Scorsese - The Art of Silence</itunes:subtitle> 
+<itunes:summary><![CDATA[Even though Martin Scorsese is famous for his use of music, one of his best traits is his deliberate and powerful use of silence. Take a glimpse at fifty years of this simple technique from one of cinema's masters. SPOILERS for Shutter Island (2010), Superman (1978) and Man of Steel (2013)
+
+For educational purposes only. You can donate to support the channel at
+Patreon: http://www.patreon.com/everyframeapainting
+
+And follow me here:
+Twitter: https://twitter.com/tonyszhou
+Facebook: https://www.facebook.com/everyframeapainting
+
+For bringing this idea to my attention, credit goes to John Pozer: https://twitter.com/Pozervision
+Written interview with Scorsese about silence (& other things): http://1.usa.gov/1lAq00I
+Video interview with sound designer Randy Thom: http://bit.ly/1qOkbwQ
+
+Help us caption & translate this video!
+
+http://amara.org/v/GJaH/]]></itunes:summary> 
+<itunes:image href="https://i.ytimg.com/vi/NUrTRjEXjSM/maxresdefault.jpg" /> 
+<itunes:duration>6:09</itunes:duration> 
+<itunes:explicit>no</itunes:explicit> 
+<itunes:order>23</itunes:order> 
+<media:content url="http://podsync.net/download/g3lOCiiSZ/NUrTRjEXjSM.mp4" fileSize="129150000" type="video/mp4" /> 
+</item> 
+<item> 
+<guid>http://podsync.net/download/g3lOCiiSZ/oie7yQgMzVw.mp4</guid> 
+<title>How to: Editing Film Dialogue</title> 
+<link>https://youtube.com/watch?v=oie7yQgMzVw</link> 
+<description /> 
+<pubDate>Sat, 29 Oct 2016 17:45:38 +0000</pubDate> 
+<enclosure url="http://podsync.net/download/g3lOCiiSZ/oie7yQgMzVw.mp4" length="210350000" type="video/mp4" /> 
+<itunes:author>Jet_so_plus: video editing</itunes:author> 
+<itunes:subtitle>How to: Editing Film Dialogue</itunes:subtitle> 
+<itunes:summary><![CDATA[How to: Editing Film Dialogue (2014-06-23T15:40:26.000Z)]]></itunes:summary> 
+<itunes:image href="https://i.ytimg.com/vi/oie7yQgMzVw/maxresdefault.jpg" /> 
+<itunes:duration>10:01</itunes:duration> 
+<itunes:explicit>no</itunes:explicit> 
+<itunes:order>24</itunes:order> 
+<media:content url="http://podsync.net/download/g3lOCiiSZ/oie7yQgMzVw.mp4" fileSize="210350000" type="video/mp4" /> 
+</item> 
+<item> 
+<guid>http://podsync.net/download/g3lOCiiSZ/AvtOY0YrF-g.mp4</guid> 
+<title>Inglourious Basterds — The Elements of Suspense</title> 
+<link>https://youtube.com/watch?v=AvtOY0YrF-g</link> 
+<description>Examining the elements of suspense that Quentin Tarantino put to use in the opening scene of Inglourious Basterds. 
+
+Support this channel: http://patreon.com/LFTScreenplay 
+LFTS on Facebook: https://goo.gl/82WlMn 
+Follow me at: http://twitter.com/michaeltuckerla 
+
+Inglourious Basterds 
+Screenplay by Quentin Tarantino 
+Directed by Quentin Tarantino 
+Starring Brad Pitt, Christoph Waltz, Mélanie Laurent, Michael Fassbender, Diane Kruger, 
+
+Lehne and Koelsch paper on suspense: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4324075/ 
+
+Tarantino on Charlie Rose: https://charlierose.com/videos/26959 
+
+Alfred Hitchock on Suspense: https://www.youtube.com/watch?v=DPFsuc_M_3E 
+
+Translate this video into your language: http://www.youtube.com/timedtext_video?ref=share&amp;v=AvtOY0YrF-g 
+
+Thanks to Diego Rojas for composing original music for this channel! 
+Check him out: https://soundcloud.com/diegorojasguitar 
+
+Marxist Arrow by Twin Musicom is licensed under a Creative Commons Attribution license (https://creativecommons.org/licenses/by/4.0/) 
+Artist: http://www.twinmusicom.org/ 
+
+Down With That by Twin Musicom is licensed under a Creative Commons Attribution license (https://creativecommons.org/licenses/by/4.0/) 
+Artist: http://www.twinmusicom.org/</description> 
+<pubDate>Tue, 14 Mar 2017 22:35:13 +0000</pubDate> 
+<enclosure url="http://podsync.net/download/g3lOCiiSZ/AvtOY0YrF-g.mp4" length="275800000" type="video/mp4" /> 
+<itunes:author>Jet_so_plus: video editing</itunes:author> 
+<itunes:subtitle>Inglourious Basterds — The Elements of Suspense</itunes:subtitle> 
+<itunes:summary><![CDATA[Examining the elements of suspense that Quentin Tarantino put to use in the opening scene of Inglourious Basterds.
+
+Support this channel: http://patreon.com/LFTScreenplay
+LFTS on Facebook: https://goo.gl/82WlMn
+Follow me at: http://twitter.com/michaeltuckerla
+
+Inglourious Basterds
+Screenplay by Quentin Tarantino
+Directed by Quentin Tarantino
+Starring Brad Pitt, Christoph Waltz, Mélanie Laurent, Michael Fassbender, Diane Kruger,
+
+Lehne and Koelsch paper on suspense: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4324075/
+
+Tarantino on Charlie Rose: https://charlierose.com/videos/26959
+
+Alfred Hitchock on Suspense: https://www.youtube.com/watch?v=DPFsuc_M_3E
+
+Translate this video into your language: http://www.youtube.com/timedtext_video?ref=share&v=AvtOY0YrF-g
+
+Thanks to Diego Rojas for composing original music for this channel!
+Check him out: https://soundcloud.com/diegorojasguitar
+
+Marxist Arrow by Twin Musicom is licensed under a Creative Commons Attribution license (https://creativecommons.org/licenses/by/4.0/)
+Artist: http://www.twinmusicom.org/
+
+Down With That by Twin Musicom is licensed under a Creative Commons Attribution license (https://creativecommons.org/licenses/by/4.0/)
+Artist: http://www.twinmusicom.org/]]></itunes:summary> 
+<itunes:image href="https://i.ytimg.com/vi/AvtOY0YrF-g/maxresdefault.jpg" /> 
+<itunes:duration>13:08</itunes:duration> 
+<itunes:explicit>no</itunes:explicit> 
+<itunes:order>25</itunes:order> 
+<media:content url="http://podsync.net/download/g3lOCiiSZ/AvtOY0YrF-g.mp4" fileSize="275800000" type="video/mp4" /> 
+</item> 
+<item> 
+<guid>http://podsync.net/download/g3lOCiiSZ/9HBuE2g5J18.mp4</guid> 
+<title>Film Editing: How to Drive Drama &amp; Conflict in a Scene</title> 
+<link>https://youtube.com/watch?v=9HBuE2g5J18</link> 
+<description>In-depth film editing tutorial on how to inject conflict into a dramatic scene. David Mamet's Master Class Memo on Good Storytelling and Mike Nichols breakdown of the three essential scene types are the foundation for the editing of this video. 
+
+Subscribe for new weekly videos: https://www.youtube.com/user/svenpape 
+Watch my Playlist with In-depth Film Editing Tutorials: https://youtu.be/r8AvJz4In2M?list=PLNEhn13QqMlY5OAEq4MqPsAD-H42yohAM 
+
+Sources: 
+
+David Mamet's Master Class Memo to the Writers of The Unit: 
+http://movieline.com/2010/03/23/david-mamets-memo-to-the-writers-of-the-unit/ 
+
+------------------- 
+
+THIS GUY EDITS (TGE) is a youtube channel by film editor Sven Pape, an A.C.E. award nominee, whose credits include work for directors James Cameron, Joseph Gordon-Levitt and James Franco. 
+
+TGE is not about how to run a piece of software, but rather how to tell stories creatively. 
+
+Sven cuts his latest film for Sundance filmmaker Mark Webber. “Flesh &amp; Blood” is their third collaboration. 
+
+Film Editing Book Recommendation - "In the Blink of an Eye" by Walter Murch: http://amzn.to/20ujg6B 
+
+Several times a week TGE will post update videos. You get to see the timeline and the editor's play-by-play-commentary as he cuts scenes. It shows work in progress. 
+
+★- - - - - - - - - - - - - - - - - - - - - - - - - - - ★ 
+Want More THIS GUY EDITS? 
+☆Connect With Me On My:☆ 
+➜ CHANNEL- 
+https://www.youtube.com/user/svenpape 
+
+➜ INSTAGRAM- 
+http://instagram.com/thisguyedits# 
+➜ TWITTER- 
+https://twitter.com/thisguyedits 
+➜ FACEBOOK GROUP- 
+https://www.facebook.com/groups/512738898932998/ 
+★- - - - - - - - - - - - - - - - - - - - - - - - - - - ★ 
+
+All Rights Reserved 
+© Copyright 2016 This Guy Edits™ 
+
+
+Editing Software: Final Cut Pro X 
+
+Over Under Kevin MacLeod (incompetech.com) 
+Licensed under Creative Commons: By Attribution 3.0 
+http://creativecommons.org/licenses/by/3.0/ 
+
+
+----------------------------------- 
+
+Want mentorship, consultation, and deeper insights? 
+
+If you like This Guy Edits consider becoming a Patreon member. You support the channel and in return I give you my personal attention. 
+Currently many of the 67 patrons enjoy direct feedback on their work, get real-life footage for editing exercises, and career advise. 
+
+Patrons can always get hold off me through the private Discord channel (and I hold monthly Skype calls with higher-tier patrons). 
+
+Visit Patreon to learn more here: https://www.patreon.com/thisguyedits</description> 
+<pubDate>Wed, 15 Mar 2017 03:43:46 +0000</pubDate> 
+<enclosure url="http://podsync.net/download/g3lOCiiSZ/9HBuE2g5J18.mp4" length="505400000" type="video/mp4" /> 
+<itunes:author>Jet_so_plus: video editing</itunes:author> 
+<itunes:subtitle>Film Editing: How to Drive Drama &amp; Conflict in a Scene</itunes:subtitle> 
+<itunes:summary><![CDATA[In-depth film editing tutorial on how to inject conflict into a dramatic scene. David Mamet's Master Class Memo on Good Storytelling and Mike Nichols breakdown of the three essential scene types are the foundation for the editing of this video. 
+
+Subscribe for new weekly videos: https://www.youtube.com/user/svenpape
+Watch my Playlist with In-depth Film Editing Tutorials: https://youtu.be/r8AvJz4In2M?list=PLNEhn13QqMlY5OAEq4MqPsAD-H42yohAM
+
+Sources:
+
+David Mamet's Master Class Memo to the Writers of The Unit:
+http://movieline.com/2010/03/23/david-mamets-memo-to-the-writers-of-the-unit/
+
+-------------------
+
+THIS GUY EDITS (TGE) is a youtube channel by film editor Sven Pape, an A.C.E. award nominee, whose credits include work for directors James Cameron, Joseph Gordon-Levitt and James Franco.
+
+TGE is not about how to run a piece of software, but rather how to tell stories creatively. 
+
+Sven cuts his latest film for Sundance filmmaker Mark Webber. “Flesh & Blood” is their third collaboration. 
+
+Film Editing Book Recommendation - "In the Blink of an Eye" by Walter Murch: http://amzn.to/20ujg6B
+
+Several times a week TGE will post update videos. You get to see the timeline and the editor's play-by-play-commentary as he cuts scenes. It shows work in progress.
+
+★- - - - - - - - - - - - - - - - - - - - - - - - - - - ★
+Want More THIS GUY EDITS?
+☆Connect With Me On My:☆
+➜ CHANNEL-
+https://www.youtube.com/user/svenpape
+
+➜ INSTAGRAM- 
+http://instagram.com/thisguyedits#
+➜ TWITTER-
+https://twitter.com/thisguyedits
+➜ FACEBOOK GROUP-
+https://www.facebook.com/groups/512738898932998/
+★- - - - - - - - - - - - - - - - - - - - - - - - - - - ★
+
+All Rights Reserved
+© Copyright 2016 This Guy Edits™
+
+
+Editing Software: Final Cut Pro X
+
+Over Under Kevin MacLeod (incompetech.com) 
+Licensed under Creative Commons: By Attribution 3.0
+http://creativecommons.org/licenses/by/3.0/
+
+
+-----------------------------------
+
+Want mentorship, consultation, and deeper insights?
+
+If you like This Guy Edits consider becoming a Patreon member. You support the channel and in return I give you my personal attention.
+Currently many of the 67 patrons enjoy direct feedback on their work, get real-life footage for editing exercises, and career advise. 
+
+Patrons can always get hold off me through the private Discord channel (and I hold monthly Skype calls with higher-tier patrons).
+
+Visit Patreon to learn more here: https://www.patreon.com/thisguyedits]]></itunes:summary> 
+<itunes:image href="https://i.ytimg.com/vi/9HBuE2g5J18/maxresdefault.jpg" /> 
+<itunes:duration>24:04</itunes:duration> 
+<itunes:explicit>no</itunes:explicit> 
+<itunes:order>26</itunes:order> 
+<media:content url="http://podsync.net/download/g3lOCiiSZ/9HBuE2g5J18.mp4" fileSize="505400000" type="video/mp4" /> 
+</item> 
+<item> 
+<guid>http://podsync.net/download/g3lOCiiSZ/d2fyviJHwWQ.mp4</guid> 
+<title>Movie Mistakes: When does Film Continuity REALLY Matter?</title> 
+<link>https://youtube.com/watch?v=d2fyviJHwWQ</link> 
+<description>Film continuity editing errors and movie mistakes happen in big and small films. But do they matter? 
+
+Find the Perfect Sound. Improve your Story by 50%: http://thisguyedits.com/soundsnap_continuity 
+
+Continuity editing is the process, in film and video creation, of combining more-or-less related shots, or different components cut from a single shot, into a sequence so as to direct the viewer's attention to a pre-existing consistency of story across both time and physical location. 
+
+Still think continuity matters? Test your awareness here: https://youtu.be/ubNF9QNEQLA 
+
+Thank you to Dr. Karen Pearlman for pointing me to the research of Timothy J. Smith: https://youtu.be/0t-ShsJmALA 
+
+--------------- 
+
+My favorite Film Editing Book is... 
+"In the Blink of an Eye" by Walter Murch: http://amzn.to/20ujg6B 
+
+Find out about Walter Murch's theory on the relationship of eye blinking and editing: https://youtu.be/0_rHsWleVmw?list=PLNEhn13QqMlY2wIkzX4tq4FDJrN0UUSee 
+
+----------------------- 
+
+THIS GUY EDITS (TGE) is a youtube channel by film editor Sven Pape, an A.C.E. award nominee, whose credits include work for directors James Cameron, Joseph Gordon-Levitt, and James Franco. 
+
+TGE is about how to tell stories creatively. 
+Weekly video uploads can be found on THIS GUY EDITS: 
+videos: https://www.youtube.com/user/svenpape 
+
+
+All Rights Reserved 
+© Copyright 2017 This Guy Edits™ 
+
+Music By: 
+Illinois_Brass_Band_-_02_-_Bach_Toccata_and_Fugue_in_D_Minor 
+http://freemusicarchive.org/member/Irene_Rible/Creative_Commons_Halloween_Mix_2011
+
+BLUEPRINT - Fragile Soul w:DUZRA | No Copyright Music - Audio Library
+•Creative Commons — Attribution 3.0 Unported— CC BY 3.0 https://creativecommons.org/licenses/... 
+✪ Title: Fragile Soul w/DUZRA 
+✪ Artist: BLUEPRINT 
+✪ Download: http://viid.me/qtdIJM 
+
+Tom Wilson - Paradise 
+Soundcloud: https://soundcloud.com/tomy2k 
+
+Editing Software: Final Cut Pro X</description> 
+<pubDate>Tue, 21 Feb 2017 21:57:55 +0000</pubDate> 
+<enclosure url="http://podsync.net/download/g3lOCiiSZ/d2fyviJHwWQ.mp4" length="174650000" type="video/mp4" /> 
+<itunes:author>Jet_so_plus: video editing</itunes:author> 
+<itunes:subtitle>Movie Mistakes: When does Film Continuity REALLY Matter?</itunes:subtitle> 
+<itunes:summary><![CDATA[Film continuity editing errors and movie mistakes happen in big and small films. But do they matter? 
+
+Find the Perfect Sound. Improve your Story by 50%: http://thisguyedits.com/soundsnap_continuity
+
+Continuity editing is the process, in film and video creation, of combining more-or-less related shots, or different components cut from a single shot, into a sequence so as to direct the viewer's attention to a pre-existing consistency of story across both time and physical location.
+
+Still think continuity matters? Test your awareness here: https://youtu.be/ubNF9QNEQLA
+
+Thank you to Dr. Karen Pearlman for pointing me to the research of Timothy J. Smith: https://youtu.be/0t-ShsJmALA
+
+---------------
+
+My favorite Film Editing Book is...
+"In the Blink of an Eye" by Walter Murch: http://amzn.to/20ujg6B
+
+Find out about Walter Murch's theory on the relationship of eye blinking and editing: https://youtu.be/0_rHsWleVmw?list=PLNEhn13QqMlY2wIkzX4tq4FDJrN0UUSee
+
+-----------------------
+
+THIS GUY EDITS (TGE) is a youtube channel by film editor Sven Pape, an A.C.E. award nominee, whose credits include work for directors James Cameron, Joseph Gordon-Levitt, and James Franco.
+
+TGE is about how to tell stories creatively. 
+Weekly video uploads can be found on THIS GUY EDITS:
+videos: https://www.youtube.com/user/svenpape
+
+
+All Rights Reserved
+© Copyright 2017 This Guy Edits™ 
+
+Music By:
+Illinois_Brass_Band_-_02_-_Bach_Toccata_and_Fugue_in_D_Minor
+http://freemusicarchive.org/member/Irene_Rible/Creative_Commons_Halloween_Mix_2011
+
+BLUEPRINT - Fragile Soul w:DUZRA | No Copyright Music - Audio Library
+•Creative Commons — Attribution 3.0 Unported— CC BY 3.0 https://creativecommons.org/licenses/...
+✪ Title: Fragile Soul w/DUZRA
+✪ Artist: BLUEPRINT
+✪ Download: http://viid.me/qtdIJM
+
+Tom Wilson - Paradise
+Soundcloud: https://soundcloud.com/tomy2k
+
+Editing Software: Final Cut Pro X]]></itunes:summary> 
+<itunes:image href="https://i.ytimg.com/vi/d2fyviJHwWQ/maxresdefault.jpg" /> 
+<itunes:duration>8:19</itunes:duration> 
+<itunes:explicit>no</itunes:explicit> 
+<itunes:order>27</itunes:order> 
+<media:content url="http://podsync.net/download/g3lOCiiSZ/d2fyviJHwWQ.mp4" fileSize="174650000" type="video/mp4" /> 
+</item> 
+<item> 
+<guid>http://podsync.net/download/g3lOCiiSZ/1uJMYNqNy7s.mp4</guid> 
+<title>How to Start a Short Film Project</title> 
+<link>https://youtube.com/watch?v=1uJMYNqNy7s</link> 
+<description>Script, casting, locations - this is pre production. 
+
+Watch the Short Film: https://youtu.be/d56WjqYnCc4 
+The rest of the BTS series: https://www.youtube.com/playlist?list=PLGSnv4S0LzBSOKqHvsDVJ7owSbaXstvbl 
+
+
+Host and Creator - Simon Cade 
+
+Graded with FilmConvert - 10% off : http://dslrguide.tv/filmconvert 
+(I earn a commission from purchases ^^) 
+
+WEBSITE: http://dslrguide.tv 
+TWITTER: http://www.twitter.com/dslrguidance 
+INSTAGRAM: http://instagram.com/cadevisuals 
+ALL EQUIPMENT: http://dslrguide.tv/mygear 
+CONTACT: dslrguidance@gmail.com 
+
+TWO WRONGS: 
+
+Directed by - Simon Cade 
+Produced by - Carl Mason (http://www.clfilms.co.uk) 
+Written by - Johann Farhan 
+
+Mark - Oliver Heald (http://twitter.com/oliheald) 
+Connor - Deon Lee-Williams (http://twitter.com/deon_rswt/) 
+Pete - Sam Glen (http://twitter.com/samglen) 
+Dealer - Lewis Brown 
+
+Customer 1 - Naithan Ariane (http://twitter.com/naithanariane) 
+Customer 2 - Ryan Clayton 
+Connor's Mate 1 - Luke Orechoff 
+Connor's Mate 2 - Lukas Becker 
+Connor's Mate 3 - Paul Keighron 
+Pete's Mate - Ross Doran 
+
+Director of Photography - JP Caldeano (https://www.youtube.com/cinematicj ) 
+1st Assistant Director - Wayne Bentley ( http://www.callboxdiary.com/callbox/wanye-bentley/) 
+Casting Director - Rebecca Jenner 
+Sound Recordist - Kristian Edwards (http://www.manchestersoundman.co.uk) 
+Boom Operator - Danny Feng 
+Costume Designer - Emily Cooper 
+Production Assistant - Anton Arenko 
+Behind the Scenes - David Williamson 
+
+Editor - Simon Cade 
+Asst. Dialogue Editor - Samuel Jacintho</description> 
+<pubDate>Sat, 29 Oct 2016 17:42:37 +0000</pubDate> 
+<enclosure url="http://podsync.net/download/g3lOCiiSZ/1uJMYNqNy7s.mp4" length="166950000" type="video/mp4" /> 
+<itunes:author>Jet_so_plus: video editing</itunes:author> 
+<itunes:subtitle>How to Start a Short Film Project</itunes:subtitle> 
+<itunes:summary><![CDATA[Script, casting, locations - this is pre production.
+
+Watch the Short Film: https://youtu.be/d56WjqYnCc4
+The rest of the BTS series: https://www.youtube.com/playlist?list=PLGSnv4S0LzBSOKqHvsDVJ7owSbaXstvbl
+
+
+Host and Creator - Simon Cade
+
+Graded with FilmConvert - 10% off : http://dslrguide.tv/filmconvert
+(I earn a commission from purchases ^^)
+
+WEBSITE: http://dslrguide.tv
+TWITTER: http://www.twitter.com/dslrguidance
+INSTAGRAM: http://instagram.com/cadevisuals
+ALL EQUIPMENT: http://dslrguide.tv/mygear
+CONTACT: dslrguidance@gmail.com
+
+TWO WRONGS:
+
+Directed by - Simon Cade 
+Produced by - Carl Mason (http://www.clfilms.co.uk)
+Written by - Johann Farhan
+
+Mark - Oliver Heald (http://twitter.com/oliheald)
+Connor - Deon Lee-Williams (http://twitter.com/deon_rswt/)
+Pete - Sam Glen (http://twitter.com/samglen)
+Dealer - Lewis Brown
+
+Customer 1 - Naithan Ariane (http://twitter.com/naithanariane)
+Customer 2 - Ryan Clayton
+Connor's Mate 1 - Luke Orechoff
+Connor's Mate 2 - Lukas Becker
+Connor's Mate 3 - Paul Keighron
+Pete's Mate - Ross Doran
+
+Director of Photography - JP Caldeano (https://www.youtube.com/cinematicj )
+1st Assistant Director - Wayne Bentley ( http://www.callboxdiary.com/callbox/wanye-bentley/)
+Casting Director - Rebecca Jenner
+Sound Recordist - Kristian Edwards (http://www.manchestersoundman.co.uk)
+Boom Operator - Danny Feng
+Costume Designer - Emily Cooper
+Production Assistant - Anton Arenko
+Behind the Scenes - David Williamson
+
+Editor - Simon Cade
+Asst. Dialogue Editor - Samuel Jacintho]]></itunes:summary> 
+<itunes:image href="https://i.ytimg.com/vi/1uJMYNqNy7s/maxresdefault.jpg" /> 
+<itunes:duration>7:57</itunes:duration> 
+<itunes:explicit>no</itunes:explicit> 
+<itunes:order>28</itunes:order> 
+<media:content url="http://podsync.net/download/g3lOCiiSZ/1uJMYNqNy7s.mp4" fileSize="166950000" type="video/mp4" /> 
+</item> 
+<item> 
+<guid>http://podsync.net/download/g3lOCiiSZ/JbiJqTBCQuw.mp4</guid> 
+<title>CASEY NEISTAT: WHAT YOU DON'T SEE</title> 
+<link>https://youtube.com/watch?v=JbiJqTBCQuw</link> 
+<description>Casey Neistat's channel: https://www.youtube.com/user/caseyneistat 
+Go watch some Wisecrack: http://goo.gl/cHKyOC 
+
+HELP ME MAKE MORE VIDEOS: http://www.patreon.com/nerdwriter 
+
+TUMBLR: http://thenerdwriter.tumblr.com TWITTER: https://twitter.com/TheeNerdwriter 
+
+Email me here: thenerdwriter@gmail.com 
+
+MUSIC!! 
+
+Blue Wednesday: https://soundcloud.com/bluewednesday 
+"Hakuna Matata": https://soundcloud.com/bluewednesday/hakuna-matata 
+"Sayonara": https://soundcloud.com/bluewednesday/sayonara 
+
+YUKI AME: https://soundcloud.com/yukinoame 
+"_BEI": https://soundcloud.com/yukinoame/trip</description> 
+<pubDate>Sat, 29 Oct 2016 17:56:21 +0000</pubDate> 
+<enclosure url="http://podsync.net/download/g3lOCiiSZ/JbiJqTBCQuw.mp4" length="141400000" type="video/mp4" /> 
+<itunes:author>Jet_so_plus: video editing</itunes:author> 
+<itunes:subtitle>CASEY NEISTAT: WHAT YOU DON'T SEE</itunes:subtitle> 
+<itunes:summary><![CDATA[Casey Neistat's channel: https://www.youtube.com/user/caseyneistat
+Go watch some Wisecrack: http://goo.gl/cHKyOC
+
+HELP ME MAKE MORE VIDEOS: http://www.patreon.com/nerdwriter
+
+TUMBLR: http://thenerdwriter.tumblr.com TWITTER: https://twitter.com/TheeNerdwriter
+
+Email me here: thenerdwriter@gmail.com
+
+MUSIC!!
+
+Blue Wednesday: https://soundcloud.com/bluewednesday
+"Hakuna Matata": https://soundcloud.com/bluewednesday/hakuna-matata
+"Sayonara": https://soundcloud.com/bluewednesday/sayonara
+
+YUKI AME: https://soundcloud.com/yukinoame
+"_BEI": https://soundcloud.com/yukinoame/trip]]></itunes:summary> 
+<itunes:image href="https://i.ytimg.com/vi/JbiJqTBCQuw/hqdefault.jpg" /> 
+<itunes:duration>6:44</itunes:duration> 
+<itunes:explicit>no</itunes:explicit> 
+<itunes:order>29</itunes:order> 
+<media:content url="http://podsync.net/download/g3lOCiiSZ/JbiJqTBCQuw.mp4" fileSize="141400000" type="video/mp4" /> 
+</item> 
+<item> 
+<guid>http://podsync.net/download/g3lOCiiSZ/k2lY0T5cA0s.mp4</guid> 
+<title>How to Vlog: From the Vlogbrothers</title> 
+<link>https://youtube.com/watch?v=k2lY0T5cA0s</link> 
+<description>So I've been making video blogs for like four years now and people say I'm pretty good at it. I also see a lot of people who could be a lot better if they just took some very simple advice. 
+
+Script for Today's video: http://edwardspoonhands.tumblr.com/post/5674814375/as-part-of-a-project 
+
+Video of me Editing this Video! 
+Still uploading...it's very long. But it will be on http://youtube.com/hankschannel soon. 
+
+
+HERE ARE A LOT OF LINKS TO NERDFIGHTASTIC THINGS: 
+
+Shirts and Stuff: http://dftba.com/artist/30/Vlogbrothers 
+Hank's Music: http://dftba.com/artist/15/Hank-Green 
+John's Books: http://amzn.to/j3LYqo 
+
+====================== 
+
+Hank's Twitter: http://www.twitter.com/hankgreen 
+Hank's Facebook: http://www.facebook.com/hankimon 
+Hank's tumblr: http://edwardspoonhands.tumblr.com 
+
+John's Twitter: http://www.twitter.com/realjohngreen 
+John's Facebook: http://www.facebook.com/johngreenfans 
+John's tumblr: http://fishingboatproceeds.tumblr.com 
+
+====================== 
+
+Other Channels 
+Crash Course: http://www.youtube.com/crashcourse 
+SciShow: http://www.youtube.com/scishow 
+Gaming: http://www.youtube.com/hankgames 
+VidCon: http://www.youtube.com/vidcon 
+Hank's Channel: http://www.youtube.com/hankschannel 
+Truth or Fail: http://www.youtube.com/truthorfail 
+
+====================== 
+
+Nerdfighteria 
+http://effyeahnerdfighters.com/ 
+http://effyeahnerdfighters.com/nftumblrs 
+http://reddit.com/r/nerdfighters 
+http://nerdfighteria.info/ 
+
+A Bunny 
+(\(\ 
+( - -) 
+((') (')</description> 
+<pubDate>Sat, 29 Oct 2016 17:02:25 +0000</pubDate> 
+<enclosure url="http://podsync.net/download/g3lOCiiSZ/k2lY0T5cA0s.mp4" length="67900000" type="video/mp4" /> 
+<itunes:author>Jet_so_plus: video editing</itunes:author> 
+<itunes:subtitle>How to Vlog: From the Vlogbrothers</itunes:subtitle>
+<itunes:summary><![CDATA[So I've been making video blogs for like four years now and people say I'm pretty good at it. I also see a lot of people who could be a lot better if they just took some very simple advice.
+
+Script for Today's video: http://edwardspoonhands.tumblr.com/post/5674814375/as-part-of-a-project
+
+Video of me Editing this Video!
+Still uploading...it's very long. But it will be on http://youtube.com/hankschannel soon.
+
+
+HERE ARE A LOT OF LINKS TO NERDFIGHTASTIC THINGS:
+
+Shirts and Stuff: http://dftba.com/artist/30/Vlogbrothers
+Hank's Music: http://dftba.com/artist/15/Hank-Green
+John's Books: http://amzn.to/j3LYqo
+
+======================
+
+Hank's Twitter: http://www.twitter.com/hankgreen
+Hank's Facebook: http://www.facebook.com/hankimon
+Hank's tumblr: http://edwardspoonhands.tumblr.com
+
+John's Twitter: http://www.twitter.com/realjohngreen
+John's Facebook: http://www.facebook.com/johngreenfans
+John's tumblr: http://fishingboatproceeds.tumblr.com
+
+======================
+
+Other Channels
+Crash Course: http://www.youtube.com/crashcourse
+SciShow: http://www.youtube.com/scishow
+Gaming: http://www.youtube.com/hankgames
+VidCon: http://www.youtube.com/vidcon
+Hank's Channel: http://www.youtube.com/hankschannel
+Truth or Fail: http://www.youtube.com/truthorfail
+
+======================
+
+Nerdfighteria
+http://effyeahnerdfighters.com/
+http://effyeahnerdfighters.com/nftumblrs
+http://reddit.com/r/nerdfighters
+http://nerdfighteria.info/
+
+A Bunny
+(\(\
+( - -)
+((') (')]]></itunes:summary> 
+<itunes:image href="https://i.ytimg.com/vi/k2lY0T5cA0s/maxresdefault.jpg" /> 
+<itunes:duration>3:14</itunes:duration> 
+<itunes:explicit>no</itunes:explicit> 
+<itunes:order>30</itunes:order> 
+<media:content url="http://podsync.net/download/g3lOCiiSZ/k2lY0T5cA0s.mp4" fileSize="67900000" type="video/mp4" /> 
+</item> 
+<item> 
+<guid>http://podsync.net/download/g3lOCiiSZ/QG6AfnPoRgY.mp4</guid> 
+<title>An Hour of Me Editing a Vlog</title> 
+<link>https://youtube.com/watch?v=QG6AfnPoRgY</link> 
+<description>Final Cut Studio ($175) http://amzn.to/igRwtc 
+Final Cut Pro ($750) http://amzn.to/ly38FD 
+
+Don't expect it to be, like riveting or anything. It is what it is...me editing a video for an hour. I may curse somewhere in there...it happens. But, yeah, editing is boring and solitary, but hopefully you find it somewhat instructive, especially if you use final cut and want to vlog.</description> 
+<pubDate>Sat, 29 Oct 2016 17:05:07 +0000</pubDate> 
+<enclosure url="http://podsync.net/download/g3lOCiiSZ/QG6AfnPoRgY.mp4" length="1490300000" type="video/mp4" /> 
+<itunes:author>Jet_so_plus: video editing</itunes:author> 
+<itunes:subtitle>An Hour of Me Editing a Vlog</itunes:subtitle> 
+<itunes:summary><![CDATA[Final Cut Studio ($175) http://amzn.to/igRwtc
+Final Cut Pro ($750) http://amzn.to/ly38FD
+
+Don't expect it to be, like riveting or anything. It is what it is...me editing a video for an hour. I may curse somewhere in there...it happens. But, yeah, editing is boring and solitary, but hopefully you find it somewhat instructive, especially if you use final cut and want to vlog.]]></itunes:summary> 
+<itunes:image href="https://i.ytimg.com/vi/QG6AfnPoRgY/maxresdefault.jpg" /> 
+<itunes:duration>1:10:58</itunes:duration> 
+<itunes:explicit>no</itunes:explicit> 
+<itunes:order>31</itunes:order> 
+<media:content url="http://podsync.net/download/g3lOCiiSZ/QG6AfnPoRgY.mp4" fileSize="1490300000" type="video/mp4" /> 
+</item> 
+<item> 
+<guid>http://podsync.net/download/g3lOCiiSZ/OQYSpET4eSY.mp4</guid> 
+<title>How to Edit a Wedding Video - Setting up the FCPX Project</title> 
+<link>https://youtube.com/watch?v=OQYSpET4eSY</link> 
+<description>Camera - http://geni.us/gIkW 
+Wide lens - https://geni.us/UBRRms 
+Medium lens - https://geni.us/lHOO 
+Telephoto lens - https://geni.us/SyB69 
+Memory card - https://geni.us/eTqY85 
+Lens shoulder bag - https://geni.us/ukBeJu 
+On-camera microphone - https://geni.us/rCqlFIA 
+Portable audio recorder - https://geni.us/tvBv1ch 
+Tripod - https://geni.us/TEvv6L5 
+Carbon fiber locking monopod - https://geni.us/xXXtx 
+Handheld 3-axis gimbal - https://geni.us/7n1I2Ai 
+Drone - https://geni.us/8LORAsp 
+Portable editing computer - https://geni.us/2N5Mgdj 
+Accessory bag - https://geni.us/zfqz 
+Roller tripod case - https://geni.us/5RePbV 
+Portable lights - https://geni.us/EBfvwXM 
+All of my gear - https://weddingfilm.school/gear 
+
+License music for you videos with Musicbed (free trial) - https://geni.us/NvQTA 
+Hire video editors with Archius Creative - https://geni.us/r9Pz 
+Deliver your wedding films online in HD with Mediazilla (free trial) - https://geni.us/oaKw8 
+Shorten and add International affiliate to links with Genius (free trial) - https://geni.us/D90zx 
+License music for you videos with Artlist (2 free months) - https://geni.us/qlA7fpW 
+Online accounting and book keeping with Quickbooks (50% discount) - https://geni.us/Nty74 
+Build a website with Squarespace (10% discount) - https://geni.us/EnbX0 
+License music for you videos with Epidemic Sound (free trial) - https://geni.us/0CWyNFM 
+Start and host a podcast with Simplecast (free trial) - https://geni.us/MUCtZiM 
+
+Website - https://weddingfilm.school 
+Facebook - https://facebook.com/groups/wedfilmschool 
+Instagram - https://instagram.com/kraigadams 
+Twitter - https://twitter.com/kraigadams</description> 
+<pubDate>Sat, 29 Oct 2016 16:59:09 +0000</pubDate> 
+<enclosure url="http://podsync.net/download/g3lOCiiSZ/OQYSpET4eSY.mp4" length="1245650000" type="video/mp4" /> 
+<itunes:author>Jet_so_plus: video editing</itunes:author> 
+<itunes:subtitle>How to Edit a Wedding Video - Setting up the FCPX Project</itunes:subtitle> 
+<itunes:summary><![CDATA[Camera - http://geni.us/gIkW
+Wide lens - https://geni.us/UBRRms
+Medium lens - https://geni.us/lHOO
+Telephoto lens - https://geni.us/SyB69
+Memory card - https://geni.us/eTqY85
+Lens shoulder bag - https://geni.us/ukBeJu
+On-camera microphone - https://geni.us/rCqlFIA
+Portable audio recorder - https://geni.us/tvBv1ch
+Tripod - https://geni.us/TEvv6L5
+Carbon fiber locking monopod - https://geni.us/xXXtx
+Handheld 3-axis gimbal - https://geni.us/7n1I2Ai
+Drone - https://geni.us/8LORAsp
+Portable editing computer - https://geni.us/2N5Mgdj
+Accessory bag - https://geni.us/zfqz
+Roller tripod case - https://geni.us/5RePbV
+Portable lights - https://geni.us/EBfvwXM
+All of my gear - https://weddingfilm.school/gear
+
+License music for you videos with Musicbed (free trial) - https://geni.us/NvQTA
+Hire video editors with Archius Creative - https://geni.us/r9Pz
+Deliver your wedding films online in HD with Mediazilla (free trial) - https://geni.us/oaKw8
+Shorten and add International affiliate to links with Genius (free trial) - https://geni.us/D90zx
+License music for you videos with Artlist (2 free months) - https://geni.us/qlA7fpW
+Online accounting and book keeping with Quickbooks (50% discount) - https://geni.us/Nty74
+Build a website with Squarespace (10% discount) - https://geni.us/EnbX0
+License music for you videos with Epidemic Sound (free trial) - https://geni.us/0CWyNFM
+Start and host a podcast with Simplecast (free trial) - https://geni.us/MUCtZiM
+
+Website - https://weddingfilm.school
+Facebook - https://facebook.com/groups/wedfilmschool
+Instagram - https://instagram.com/kraigadams
+Twitter - https://twitter.com/kraigadams]]></itunes:summary> 
+<itunes:image href="https://i.ytimg.com/vi/OQYSpET4eSY/maxresdefault.jpg" /> 
+<itunes:duration>59:19</itunes:duration> 
+<itunes:explicit>no</itunes:explicit> 
+<itunes:order>32</itunes:order> 
+<media:content url="http://podsync.net/download/g3lOCiiSZ/OQYSpET4eSY.mp4" fileSize="1245650000" type="video/mp4" /> 
+</item> 
+<item> 
+<guid>http://podsync.net/download/g3lOCiiSZ/Hgd5opjklrg.mp4</guid> 
+<title>[THE FIRST] Insane Premiere tutorial - Editing an LTT video from start to finish - FULL commentary</title> 
+<link>https://youtube.com/watch?v=Hgd5opjklrg</link> 
+<description>WATCH THE SEQUEL: https://www.youtube.com/watch?v=O6ERELse_QY It's better in every way! You don't need to watch this one first. 
+▼ EXPAND FOR NAVIGATION ▼ 
+In this video, I screen recorded myself editing a typical Linus Tech Tips video, from the very beginning to the very end. 
+You see ALL the keystrokes, and I've provided FULL, comprehensive commentary (which I recorded afterwards, not while editing the video.) 
+People have been asking for this one for a LONG time! 
+
+Editing for a channel that puts out videos every day has made it necessary for me to figure out tricks and methods to edit FASTER and MORE EFFICIENTLY. I have pioneered many tricks that I have not seen anyone else use or even talk about. In this video, you get to see it all! 
+
+TURN ANNOTATIONS ON! There are a few empty gaps in this tutorial that you'll want to skip. My mistake! 
+
+For Premiere BEGINNERS, I recommend you watch 16:38 to 24:00. I'd say the rest of the tutorial is intermediate to very advanced. 
+
+Interesting LINKS can be found below the video navigation! 
+
+HEY, YOU LAZY BUMS, be sure to "like," and SHARE this video on whatever video-related forums you frequent! 
+
+--- VIDEO NAVIGATION --- 
+
+0:00 intro and explanation of prerequisite information 
+2:54 How I use multiple monitors 
+4:01 My G15 keyboard and use of macros 
+4:47 Why you should edit with keyboard shortcuts as much as possible (it's faster) 
+6:48 SCREEN RECORDING BEGINS! I check the calendar to see what video I'll be doing. 
+7:26 I use Explorer "favorites" for quick folder access 
+7:50 How we use the script (very important!) 
+9:29 Starting out with my template project file! 
+11:48 I put the "A roll" onto the timeline, nest it, and configure audio and color correction 
+13:55 Talkin' about nests while we wait for audio to render! 
+
+16:38 ROUGH CUT OF THE A ROLL BEGINS! 
+THIS PART OF THE VIDEO WILL BE GREAT FOR BEGINNERS. It may be boring to others. I explain EVERYTHING, in slow motion. 
+
+24:00 A-roll rough cut proceeds. 
+
+40:42 A roll rough cut is done! I rough in the outtro graphics. 
+
+44:01 2ND PASS OF THE VIDEO BEGINS! 
+I fix up the A roll and ADD THE B ROLL ON TOP, according to the script guidance, and my own discretion 
+
+1:07:37 Trying to use morph cut (but it doesn't work on nested sequences) 
+
+1:14:19 Using Shutterstock and Photoshop to make a dumb gamer picture
+
+1:19:38 Creating and animating speech bubbles for dumb gamer picture 
+
+1:29:19 Creating Fawlty Towers graphic, I guess. 
+
+1:37:34 Putting 3D glasses on a cat. 
+
+1:41:10 Using Snagit to capture LG's webpage about this TV 
+
+1:46:30 Still laying B-roll! It's starting to get redundant. I recommend skipping forward! 
+
+1:54:53 Inserting a Shutterstock pic of kids fighting. Lol. 
+
+2:02:26 Sharpening and blurry-ing tests. I am always experimenting with new things. 
+
+2:05:52 "Gosh, this is boring." 
+
+2:16:41 Fast-forwarded Shutterstock adventure! 
+
+2:18:22 Getting pretty close to the end here. Finding some nice glam shots to finish off the video. 
+
+2:26:59 AND WE'RE DONE WITH THE B-ROLL ROUGH CUT! Just fixing up the outtro graphics and stuff 
+
+2:27:58 3RD PASS BEGINS! This is when I fix up EVERYTHING, resolve the markers I've put down, and finalize color correction, etc. 
+
+2:40:05 More stupid color correction! My skills here have improved by now, probably! 
+
+2:45:39 3RD PASS IS DONE! The video is essentially complete at this point, and ready to be rendered. 
+
+2:48:05 Because I still have extra time, I am adding a fun graphic. Also, I pontificate upon how terribly fonts are organized. 
+
+3:01:29 THE EDIT IS FINISHED! Now we export to cineform, which is later rendered into the delivery format by another computer (not shown. lol.) 
+
+3:05:58 More stuff about peripherals that I use. 
+
+3:08:22 All of the preferences that I use! 
+
+3:22:25 All the most common keyboard shortcuts that I use! 
+(Full list below.) 
+
+3:29:18 Final thoughts. Please let me know what you think of my workflow! Is it laughable? (Yes it is.) 
+I'd love to see other tutorials done in this format! 
+
+--- 
+
+THE FINISHED LG 4K TV VIDEO! 
+https://youtu.be/I44RJYOVAoo 
+
+12 new features for Premiere Pro: 
+https://youtu.be/eZIaBsybO6Y 
+
+Ergonomics 
+http://youtu.be/bLBKUbnLYTs 
+
+How we use cineform: 
+http://youtu.be/YQ96fLCGFRw 
+
+UPDATE: All my autohotkey scripts! 
+https://github.com/TaranVH/2nd-keyboard 
+
+Here is the Youtube channel I edit for! 
+http://youtube.com/user/LinusTechTips/videos 
+
+More tutorials on Lynda.com, made by ACTUAL professionals! 
+http://lynda.com/techquickie 
+(They didn't sponsor this video, I just happen to like them!) 
+
+Another, simpler start-to-finish style tutorial, made by someone who watched this one and learned from it! https://www.youtube.com/watch?v=q9YcLD60AGg 
+
+http://twitter.com/taranvh 
+
+---- 
+
+It is thanks to the mindblowing community of video game speedrunners that I was inspired to begin editing this way. 
+
+Check out my two favorite speedruns here: 
+http://youtu.be/aq6pGJbd6Iw 
+http://youtu.be/Xo5agDyzTxM 
+
+And my own (far less cool) speedrun of Spiderman 2: 
+http://youtu.be/IbWUHqjTIdc</description> 
+<pubDate>Sat, 29 Oct 2016 16:55:30 +0000</pubDate> 
+<enclosure url="http://podsync.net/download/g3lOCiiSZ/Hgd5opjklrg.mp4" length="4444650000" type="video/mp4" /> 
+<itunes:author>Jet_so_plus: video editing</itunes:author> 
+<itunes:subtitle>[THE FIRST] Insane Premiere tutorial - Editing an LTT video from start to finish - FULL commentary</itunes:subtitle> 
+<itunes:summary><![CDATA[WATCH THE SEQUEL: https://www.youtube.com/watch?v=O6ERELse_QY It's better in every way! You don't need to watch this one first.
+▼ EXPAND FOR NAVIGATION ▼
+In this video, I screen recorded myself editing a typical Linus Tech Tips video, from the very beginning to the very end.
+You see ALL the keystrokes, and I've provided FULL, comprehensive commentary (which I recorded afterwards, not while editing the video.)
+People have been asking for this one for a LONG time!
+
+Editing for a channel that puts out videos every day has made it necessary for me to figure out tricks and methods to edit FASTER and MORE EFFICIENTLY. I have pioneered many tricks that I have not seen anyone else use or even talk about. In this video, you get to see it all!
+
+TURN ANNOTATIONS ON! There are a few empty gaps in this tutorial that you'll want to skip. My mistake!
+
+For Premiere BEGINNERS, I recommend you watch 16:38 to 24:00. I'd say the rest of the tutorial is intermediate to very advanced.
+
+Interesting LINKS can be found below the video navigation!
+
+HEY, YOU LAZY BUMS, be sure to "like," and SHARE this video on whatever video-related forums you frequent!
+
+--- VIDEO NAVIGATION ---
+
+0:00 intro and explanation of prerequisite information
+2:54 How I use multiple monitors
+4:01 My G15 keyboard and use of macros
+4:47 Why you should edit with keyboard shortcuts as much as possible (it's faster)
+6:48 SCREEN RECORDING BEGINS! I check the calendar to see what video I'll be doing.
+7:26 I use Explorer "favorites" for quick folder access
+7:50 How we use the script (very important!)
+9:29 Starting out with my template project file!
+11:48 I put the "A roll" onto the timeline, nest it, and configure audio and color correction
+13:55 Talkin' about nests while we wait for audio to render!
+
+16:38 ROUGH CUT OF THE A ROLL BEGINS!
+THIS PART OF THE VIDEO WILL BE GREAT FOR BEGINNERS. It may be boring to others. I explain EVERYTHING, in slow motion.
+
+24:00 A-roll rough cut proceeds.
+
+40:42 A roll rough cut is done! I rough in the outtro graphics.
+
+44:01 2ND PASS OF THE VIDEO BEGINS!
+I fix up the A roll and ADD THE B ROLL ON TOP, according to the script guidance, and my own discretion
+
+1:07:37 Trying to use morph cut (but it doesn't work on nested sequences)
+
+1:14:19 Using Shutterstock and Photoshop to make a dumb gamer picture
+
+1:19:38 Creating and animating speech bubbles for dumb gamer picture
+
+1:29:19 Creating Fawlty Towers graphic, I guess.
+
+1:37:34 Putting 3D glasses on a cat.
+
+1:41:10 Using Snagit to capture LG's webpage about this TV
+
+1:46:30 Still laying B-roll! It's starting to get redundant. I recommend skipping forward!
+
+1:54:53 Inserting a Shutterstock pic of kids fighting. Lol.
+
+2:02:26 Sharpening and blurry-ing tests. I am always experimenting with new things.
+
+2:05:52 "Gosh, this is boring."
+
+2:16:41 Fast-forwarded Shutterstock adventure!
+
+2:18:22 Getting pretty close to the end here. Finding some nice glam shots to finish off the video.
+
+2:26:59 AND WE'RE DONE WITH THE B-ROLL ROUGH CUT! Just fixing up the outtro graphics and stuff
+
+2:27:58 3RD PASS BEGINS! This is when I fix up EVERYTHING, resolve the markers I've put down, and finalize color correction, etc.
+
+2:40:05 More stupid color correction! My skills here have improved by now, probably!
+
+2:45:39 3RD PASS IS DONE! The video is essentially complete at this point, and ready to be rendered.
+
+2:48:05 Because I still have extra time, I am adding a fun graphic. Also, I pontificate upon how terribly fonts are organized.
+
+3:01:29 THE EDIT IS FINISHED! Now we export to cineform, which is later rendered into the delivery format by another computer (not shown. lol.)
+
+3:05:58 More stuff about peripherals that I use.
+
+3:08:22 All of the preferences that I use!
+
+3:22:25 All the most common keyboard shortcuts that I use!
+(Full list below.)
+
+3:29:18 Final thoughts. Please let me know what you think of my workflow! Is it laughable? (Yes it is.)
+I'd love to see other tutorials done in this format!
+
+---
+
+THE FINISHED LG 4K TV]]></itunes:summary> 
+<itunes:image href="https://i.ytimg.com/vi/Hgd5opjklrg/maxresdefault.jpg" /> 
+<itunes:duration>3:31:39</itunes:duration> 
+<itunes:explicit>no</itunes:explicit> 
+<itunes:order>33</itunes:order> 
+<media:content url="http://podsync.net/download/g3lOCiiSZ/Hgd5opjklrg.mp4" type="video/mp4" /> 
+</item> 
+<item> 
+<guid>http://podsync.net/download/g3lOCiiSZ/CvLQJReDhic.mp4</guid> 
+<title>Composition In Storytelling | CRISWELL | Cinema Cartography</title> 
+<link>https://youtube.com/watch?v=CvLQJReDhic</link> 
+<description>Support this Channel on Patreon: 
+
+https://www.patreon.com/cinemacartography 
+
+For business inquiries: contact@cinemacartography.com 
+
+Press the CC button to see a list of the films. 
+
+SONG LIST: 
+0:00-1:58 The Smashing Pumpkins - Melancholy and The Infinite Sadness
+1:59-2:49 Funkadelic - Maggot Brain 
+2:49-6:39 Michael Nyman - Fish Beach 
+6:42-8:52 David Bowie - Space Oddity 
+8:52-12:33 Cowboy Bebop OST - Space Lion 
+12:24-15:55 Arcade Fire - Dimensions</description> 
+<pubDate>Sat, 29 Oct 2016 17:52:19 +0000</pubDate> 
+<enclosure url="http://podsync.net/download/g3lOCiiSZ/CvLQJReDhic.mp4" length="334600000" type="video/mp4" /> 
+<itunes:author>Jet_so_plus: video editing</itunes:author> 
+<itunes:subtitle>Composition In Storytelling | CRISWELL | Cinema Cartography</itunes:subtitle> 
+<itunes:summary><![CDATA[Support this Channel on Patreon: 
+
+https://www.patreon.com/cinemacartography
+
+For business inquiries: contact@cinemacartography.com
+
+Press the CC button to see a list of the films.
+
+SONG LIST:
+0:00-1:58 The Smashing Pumpkins - Melancholy and The Infinite Sadness
+1:59-2:49 Funkadelic - Maggot Brain
+2:49-6:39 Michael Nyman - Fish Beach
+6:42-8:52 David Bowie - Space Oddity
+8:52-12:33 Cowboy Bebop OST - Space Lion
+12:24-15:55 Arcade Fire - Dimensions]]></itunes:summary> 
+<itunes:image href="https://i.ytimg.com/vi/CvLQJReDhic/maxresdefault.jpg" /> 
+<itunes:duration>15:56</itunes:duration> 
+<itunes:explicit>no</itunes:explicit> 
+<itunes:order>34</itunes:order> 
+<media:content url="http://podsync.net/download/g3lOCiiSZ/CvLQJReDhic.mp4" fileSize="334600000" type="video/mp4" /> 
+</item> 
+<item> 
+<guid>http://podsync.net/download/g3lOCiiSZ/2Aqk8OaIyXg.mp4</guid> 
+<title>Cinematic Text Effects</title> 
+<link>https://youtube.com/watch?v=2Aqk8OaIyXg</link> 
+<description>How to do two very different title styles (plus 3 more at the end). 
+
+Host and Creator - Simon Cade 
+
+Graded with FilmConvert - 10% off: http://dslrguide.tv/filmconvert 
+(I earn a commission from purchases ^^) 
+
+WEBSITE: http://dslrguide.tv 
+TWITTER: http://www.twitter.com/dslrguidance 
+INSTAGRAM: http://instagram.com/cadevisuals 
+ALL EQUIPMENT: http://dslrguide.tv/mygear 
+CONTACT: dslrguidance@gmail.com</description> 
+<pubDate>Sat, 29 Oct 2016 17:23:12 +0000</pubDate> 
+<enclosure url="http://podsync.net/download/g3lOCiiSZ/2Aqk8OaIyXg.mp4" length="99750000" type="video/mp4" /> 
+<itunes:author>Jet_so_plus: video editing</itunes:author> 
+<itunes:subtitle>Cinematic Text Effects</itunes:subtitle> 
+<itunes:summary><![CDATA[How to do two very different title styles (plus 3 more at the end).
+
+Host and Creator - Simon Cade
+
+Graded with FilmConvert - 10% off: http://dslrguide.tv/filmconvert
+(I earn a commission from purchases ^^)
+
+WEBSITE: http://dslrguide.tv
+TWITTER: http://www.twitter.com/dslrguidance
+INSTAGRAM: http://instagram.com/cadevisuals
+ALL EQUIPMENT: http://dslrguide.tv/mygear
+CONTACT: dslrguidance@gmail.com]]></itunes:summary> 
+<itunes:image href="https://i.ytimg.com/vi/2Aqk8OaIyXg/maxresdefault.jpg" /> 
+<itunes:duration>4:45</itunes:duration> 
+<itunes:explicit>no</itunes:explicit> 
+<itunes:order>35</itunes:order> 
+<media:content url="http://podsync.net/download/g3lOCiiSZ/2Aqk8OaIyXg.mp4" fileSize="99750000" type="video/mp4" /> 
+</item> 
+<item> 
+<guid>http://podsync.net/download/g3lOCiiSZ/nZ7E7MlejaY.mp4</guid> 
+<title>how video editing has ruined my life</title> 
+<link>https://youtube.com/watch?v=nZ7E7MlejaY</link> 
+<description>video editing is ruining my life because its all I do ahhh 
+catch up on yesterdays vlog: https://goo.gl/Aq3uVd 
+in order to daily vlog, I have to go through hours and hours of editing. I love editing dont get me wrong- but it kinda also ruins my life. Some days are edit heavy, because of this I can't go out and do other things because I'm sacrificing my time to edit videos. My friends are always wait on me to finish exporting something or filming something. Oh well they can deal. 
+
+Welcome to my vlog of My Millennial Life Crisis, or MLC for short. MLC is also short for Monica Lucy Church, my name! I'm hoping to get into daily vlogging. I'm not sure if I will be able to keep it up, but here goes nothing. I'm just a 20 something year old girl who dropped out of college to pursue a lifestyle on the internet. Lately I've been waking up finding myself unsatisfied with what I am doing. Like most people my age, I have no clue what to do with my life. I know what I'm good at and what I want out of life, so it's time to make a change. Follow my life by clicking the subscribe button &amp; following me on social media sites such as twitter, instagram, and snapchat! 
+
+BUSINESS: hairodynamic@gmail.com 
+
+Follow me - 
+twitter: @hairodynamic 
+instagram: Monica Church 
+Snapchat: MonicaChurchh</description> 
+<pubDate>Sat, 29 Oct 2016 17:11:03 +0000</pubDate> 
+<enclosure url="http://podsync.net/download/g3lOCiiSZ/nZ7E7MlejaY.mp4" length="94500000" type="video/mp4" /> 
+<itunes:author>Jet_so_plus: video editing</itunes:author> 
+<itunes:subtitle>how video editing has ruined my life</itunes:subtitle> 
+<itunes:summary><![CDATA[video editing is ruining my life because its all I do ahhh
+catch up on yesterdays vlog: https://goo.gl/Aq3uVd
+in order to daily vlog, I have to go through hours and hours of editing. I love editing dont get me wrong- but it kinda also ruins my life. Some days are edit heavy, because of this I can't go out and do other things because I'm sacrificing my time to edit videos. My friends are always wait on me to finish exporting something or filming something. Oh well they can deal. 
+
+Welcome to my vlog of My Millennial Life Crisis, or MLC for short. MLC is also short for Monica Lucy Church, my name! I'm hoping to get into daily vlogging. I'm not sure if I will be able to keep it up, but here goes nothing. I'm just a 20 something year old girl who dropped out of college to pursue a lifestyle on the internet. Lately I've been waking up finding myself unsatisfied with what I am doing. Like most people my age, I have no clue what to do with my life. I know what I'm good at and what I want out of life, so it's time to make a change. Follow my life by clicking the subscribe button & following me on social media sites such as twitter, instagram, and snapchat!
+
+BUSINESS: hairodynamic@gmail.com
+
+Follow me -
+twitter: @hairodynamic
+instagram: Monica Church
+Snapchat: MonicaChurchh]]></itunes:summary> 
+<itunes:image href="https://i.ytimg.com/vi/nZ7E7MlejaY/hqdefault.jpg" /> 
+<itunes:duration>4:30</itunes:duration> 
+<itunes:explicit>no</itunes:explicit> 
+<itunes:order>36</itunes:order> 
+<media:content url="http://podsync.net/download/g3lOCiiSZ/nZ7E7MlejaY.mp4" fileSize="94500000" type="video/mp4" /> 
+</item> 
+<item> 
+<guid>http://podsync.net/download/g3lOCiiSZ/KT4yih-vjRc.mp4</guid> 
+<title>My Video Editing Process</title> 
+<link>https://youtube.com/watch?v=KT4yih-vjRc</link> 
+<description>Some simple tips that work with all video editing software. 
+
+Wipster: http://go.wipster.io/SimonCade 
+
+Host and Creator - Simon Cade 
+
+Graded with FilmConvert - 10% off: http://dslrguide.tv/filmconvert 
+(I earn a commission from purchases ^^) 
+
+WEBSITE: http://dslrguide.tv 
+TWITTER: http://www.twitter.com/dslrguidance 
+INSTAGRAM: http://instagram.com/cadevisuals 
+ALL EQUIPMENT: http://dslrguide.tv/mygear 
+CONTACT: dslrguidance@gmail.com</description> 
+<pubDate>Sat, 29 Oct 2016 17:23:19 +0000</pubDate> 
+<enclosure url="http://podsync.net/download/g3lOCiiSZ/KT4yih-vjRc.mp4" length="117950000" type="video/mp4" /> 
+<itunes:author>Jet_so_plus: video editing</itunes:author> 
+<itunes:subtitle>My Video Editing Process</itunes:subtitle> 
+<itunes:summary><![CDATA[Some simple tips that work with all video editing software.
+
+Wipster: http://go.wipster.io/SimonCade 
+
+Host and Creator - Simon Cade
+
+Graded with FilmConvert - 10% off: http://dslrguide.tv/filmconvert
+(I earn a commission from purchases ^^)
+
+WEBSITE: http://dslrguide.tv
+TWITTER: http://www.twitter.com/dslrguidance
+INSTAGRAM: http://instagram.com/cadevisuals
+ALL EQUIPMENT: http://dslrguide.tv/mygear
+CONTACT: dslrguidance@gmail.com]]></itunes:summary> 
+<itunes:image href="https://i.ytimg.com/vi/KT4yih-vjRc/maxresdefault.jpg" /> 
+<itunes:duration>5:37</itunes:duration> 
+<itunes:explicit>no</itunes:explicit> 
+<itunes:order>37</itunes:order> 
+<media:content url="http://podsync.net/download/g3lOCiiSZ/KT4yih-vjRc.mp4" fileSize="117950000" type="video/mp4" /> 
+</item> 
+<item> 
+<guid>http://podsync.net/download/g3lOCiiSZ/jLv4Lgf88Kw.mp4</guid> 
+<title>5 Premiere Pro Editing Tips I Wish I Knew - Premiere Pro Tips</title> 
+<link>https://youtube.com/watch?v=jLv4Lgf88Kw</link> 
+<description>My list of the 5 things I most regret not knowing about Editing with Premiere Pro when I started. Here's the list below with timecodes: 
+
+1 - Audio Gain: 00:45 
+2 - Cache Data: 01:49 
+3 - In/Out Markers: 02:40 
+4 - Select everything Tools: 03:25 
+5 - Budget Render and Export Times: 04:11 
+
+If you want to see more helpful tutorials, check out this playlist! 
+https://www.youtube.com/playlist?list=PLJgz68I5Hb44_LP7yl3MC-lrx3uzn_yU_ 
+
+If you've only got a minute, check out our 20 second tutorials! 
+https://www.youtube.com/playlist?list=PLJgz68I5Hb47fiBN56uTkPobllA0rpYEF 
+
+My gear: 
+
+5D mk iii 
+https://www.amazon.ca/gp/product/B00BJMMFXS/ref=as_li_tl?ie=UTF8&amp;camp=15121&amp;creative=330641&amp;creativeASIN=B00BJMMFXS&amp;linkCode=as2&amp;tag=jordandueck-20&amp;linkId=999533a1768fdb73366dce896751e0d3 
+
+Panasonic gh4 
+https://www.amazon.ca/gp/product/B00LH3QX6E/ref=as_li_tl?ie=UTF8&amp;camp=15121&amp;creative=330641&amp;creativeASIN=B00LH3QX6E&amp;linkCode=as2&amp;tag=jordandueck-20&amp;linkId=e7bf15c6bc00b6af30941a68656a2489 
+
+
+Mouse - Razer Naga 
+
+https://www.amazon.ca/gp/product/B01798WKTY/ref=as_li_tl?ie=UTF8&amp;camp=15121&amp;creative=330641&amp;creativeASIN=B01798WKTY&amp;linkCode=as2&amp;tag=jordandueck-20&amp;linkId=02c9f6be44f3cb3831c25fa45a45da01.00 
+
+
+Keyboard - Corsair k70: 
+https://www.amazon.ca/gp/product/B01ER4B8C8/ref=as_li_tl?ie=UTF8&amp;camp=15121&amp;creative=330641&amp;creativeASIN=B01ER4B8C8&amp;linkCode=as2&amp;tag=jordandueck-20&amp;linkId=dfdb185c4442e9a6ba22054dfcfd0152</description> 
+<pubDate>Sat, 29 Oct 2016 16:54:08 +0000</pubDate> 
+<enclosure url="http://podsync.net/download/g3lOCiiSZ/jLv4Lgf88Kw.mp4" length="122850000" type="video/mp4" /> 
+<itunes:author>Jet_so_plus: video editing</itunes:author> 
+<itunes:subtitle>5 Premiere Pro Editing Tips I Wish I Knew - Premiere Pro Tips</itunes:subtitle> 
+<itunes:summary><![CDATA[My list of the 5 things I most regret not knowing about Editing with Premiere Pro when I started. Here's the list below with timecodes:
+
+1 - Audio Gain: 00:45
+2 - Cache Data: 01:49
+3 - In/Out Markers: 02:40
+4 - Select everything Tools: 03:25
+5 - Budget Render and Export Times: 04:11
+
+If you want to see more helpful tutorials, check out this playlist!
+https://www.youtube.com/playlist?list=PLJgz68I5Hb44_LP7yl3MC-lrx3uzn_yU_
+
+If you've only got a minute, check out our 20 second tutorials!
+https://www.youtube.com/playlist?list=PLJgz68I5Hb47fiBN56uTkPobllA0rpYEF
+
+My gear:
+
+5D mk iii
+https://www.amazon.ca/gp/product/B00BJMMFXS/ref=as_li_tl?ie=UTF8&camp=15121&creative=330641&creativeASIN=B00BJMMFXS&linkCode=as2&tag=jordandueck-20&linkId=999533a1768fdb73366dce896751e0d3
+
+Panasonic gh4
+https://www.amazon.ca/gp/product/B00LH3QX6E/ref=as_li_tl?ie=UTF8&camp=15121&creative=330641&creativeASIN=B00LH3QX6E&linkCode=as2&tag=jordandueck-20&linkId=e7bf15c6bc00b6af30941a68656a2489
+
+
+Mouse - Razer Naga
+
+https://www.amazon.ca/gp/product/B01798WKTY/ref=as_li_tl?ie=UTF8&camp=15121&creative=330641&creativeASIN=B01798WKTY&linkCode=as2&tag=jordandueck-20&linkId=02c9f6be44f3cb3831c25fa45a45da01.00
+
+
+Keyboard - Corsair k70:
+https://www.amazon.ca/gp/product/B01ER4B8C8/ref=as_li_tl?ie=UTF8&camp=15121&creative=330641&creativeASIN=B01ER4B8C8&linkCode=as2&tag=jordandueck-20&linkId=dfdb185c4442e9a6ba22054dfcfd0152]]></itunes:summary> 
+<itunes:image href="https://i.ytimg.com/vi/jLv4Lgf88Kw/maxresdefault.jpg" /> 
+<itunes:duration>5:51</itunes:duration> 
+<itunes:explicit>no</itunes:explicit> 
+<itunes:order>38</itunes:order> 
+<media:content url="http://podsync.net/download/g3lOCiiSZ/jLv4Lgf88Kw.mp4" fileSize="122850000" type="video/mp4" /> 
+</item> 
+<item> 
+<guid>http://podsync.net/download/g3lOCiiSZ/mYkG6r4xd8g.mp4</guid> 
+<title>5 MORE Premiere Pro Editing Tips I Wish I Knew (Part 2)</title> 
+<link>https://youtube.com/watch?v=mYkG6r4xd8g</link> 
+<description>My list of the 5 MORE things I regret not knowing about Editing with Premiere Pro when I started. Here's the list below with timecodes: 
+
+1 - Nesting - 00:21 
+2 - Warp Stabalizer: 01:03 
+3 - Auto-Save: 01:37 
+4 - New Sequence from Clip: 02:29 
+5 - Edit on a Fast Drive: 03:12 
+
+Hope you guys enjoy! 
+
+Music: Ex-Boxer - Riot 
+(Setup description below): 
+
+My Setup (Amazon Associate Links): 
+
+My gear: 
+
+5D mk iii 
+https://www.amazon.ca/gp/product/B00BJMMFXS/ref=as_li_tl?ie=UTF8&amp;camp=15121&amp;creative=330641&amp;creativeASIN=B00BJMMFXS&amp;linkCode=as2&amp;tag=jordandueck-20&amp;linkId=999533a1768fdb73366dce896751e0d3 
+
+Panasonic gh4 
+https://www.amazon.ca/gp/product/B00LH3QX6E/ref=as_li_tl?ie=UTF8&amp;camp=15121&amp;creative=330641&amp;creativeASIN=B00LH3QX6E&amp;linkCode=as2&amp;tag=jordandueck-20&amp;linkId=e7bf15c6bc00b6af30941a68656a2489 
+
+
+Mouse - Razer Naga 
+
+https://www.amazon.ca/gp/product/B01798WKTY/ref=as_li_tl?ie=UTF8&amp;camp=15121&amp;creative=330641&amp;creativeASIN=B01798WKTY&amp;linkCode=as2&amp;tag=jordandueck-20&amp;linkId=02c9f6be44f3cb3831c25fa45a45da01.00 
+
+
+Keyboard - Corsair k70: 
+https://www.amazon.ca/gp/product/B01ER4B8C8/ref=as_li_tl?ie=UTF8&amp;camp=15121&amp;creative=330641&amp;creativeASIN=B01ER4B8C8&amp;linkCode=as2&amp;tag=jordandueck-20&amp;linkId=dfdb185c4442e9a6ba22054dfcfd0152</description> 
+<pubDate>Sat, 29 Oct 2016 16:53:56 +0000</pubDate> 
+<enclosure url="http://podsync.net/download/g3lOCiiSZ/mYkG6r4xd8g.mp4" length="108850000" type="video/mp4" /> 
+<itunes:author>Jet_so_plus: video editing</itunes:author> 
+<itunes:subtitle>5 MORE Premiere Pro Editing Tips I Wish I Knew (Part 2)</itunes:subtitle> 
+<itunes:summary><![CDATA[My list of the 5 MORE things I regret not knowing about Editing with Premiere Pro when I started. Here's the list below with timecodes:
+
+1 - Nesting - 00:21
+2 - Warp Stabalizer: 01:03
+3 - Auto-Save: 01:37
+4 - New Sequence from Clip: 02:29
+5 - Edit on a Fast Drive: 03:12
+
+Hope you guys enjoy!
+
+Music: Ex-Boxer - Riot
+(Setup description below):
+
+My Setup (Amazon Associate Links):
+
+My gear:
+
+5D mk iii
+https://www.amazon.ca/gp/product/B00BJMMFXS/ref=as_li_tl?ie=UTF8&camp=15121&creative=330641&creativeASIN=B00BJMMFXS&linkCode=as2&tag=jordandueck-20&linkId=999533a1768fdb73366dce896751e0d3
+
+Panasonic gh4
+https://www.amazon.ca/gp/product/B00LH3QX6E/ref=as_li_tl?ie=UTF8&camp=15121&creative=330641&creativeASIN=B00LH3QX6E&linkCode=as2&tag=jordandueck-20&linkId=e7bf15c6bc00b6af30941a68656a2489
+
+
+Mouse - Razer Naga
+
+https://www.amazon.ca/gp/product/B01798WKTY/ref=as_li_tl?ie=UTF8&camp=15121&creative=330641&creativeASIN=B01798WKTY&linkCode=as2&tag=jordandueck-20&linkId=02c9f6be44f3cb3831c25fa45a45da01.00
+
+
+Keyboard - Corsair k70:
+https://www.amazon.ca/gp/product/B01ER4B8C8/ref=as_li_tl?ie=UTF8&camp=15121&creative=330641&creativeASIN=B01ER4B8C8&linkCode=as2&tag=jordandueck-20&linkId=dfdb185c4442e9a6ba22054dfcfd0152]]></itunes:summary> 
+<itunes:image href="https://i.ytimg.com/vi/mYkG6r4xd8g/maxresdefault.jpg" /> 
+<itunes:duration>5:11</itunes:duration> 
+<itunes:explicit>no</itunes:explicit> 
+<itunes:order>39</itunes:order> 
+<media:content url="http://podsync.net/download/g3lOCiiSZ/mYkG6r4xd8g.mp4" fileSize="108850000" type="video/mp4" /> 
+</item> 
+<item> 
+<guid>http://podsync.net/download/g3lOCiiSZ/i5_q50c9k7k.mp4</guid> 
+<title>How to Edit Faster with this Dead Simple Trick in Premiere Pro (double your editing speed)</title> 
+<link>https://youtube.com/watch?v=i5_q50c9k7k</link> 
+<description>Make sure to subscribe http://Left.ly/sub – Newer better version of this video http://left.ly/editninja. 
+&#x1f4e9; &#x1f4e9; &#x1f4ec; &#x1f4ec; &#x1f4e9; &#x1f4e9; &#x1f4ec; &#x1f4ec; &#x1f4e9; &#x1f4e9; &#x1f4ec; &#x1f4ec; &#x1f4e9; &#x1f4e9; &#x1f4ec; &#x1f4ec; 
+Send me some mail so I can feel like Casey Neistat! 
+
+Levi Allen 
+#324 
+A-33771 George Ferguson Way 
+Abbotsford, BC V2S 2M5 CA 
+
+
+Thanks much for watching friend! As always, catch ya in the next one.
+- Levi 
+
+ps. Remember, life's better when you make stuff!</description> 
+<pubDate>Wed, 02 Nov 2016 04:56:05 +0000</pubDate> 
+<enclosure url="http://podsync.net/download/g3lOCiiSZ/i5_q50c9k7k.mp4" length="104650000" type="video/mp4" /> 
+<itunes:author>Jet_so_plus: video editing</itunes:author> 
+<itunes:subtitle>How to Edit Faster with this Dead Simple Trick in Premiere Pro (double your editing speed)</itunes:subtitle> 
+<itunes:summary><![CDATA[Make sure to subscribe http://Left.ly/sub – Newer better version of this video http://left.ly/editninja.
+📩 📩 📬 📬 📩 📩 📬 📬 📩 📩 📬 📬 📩 📩 📬 📬
+Send me some mail so I can feel like Casey Neistat!
+
+Levi Allen
+#324
+A-33771 George Ferguson Way
+Abbotsford, BC V2S 2M5 CA
+
+
+Thanks much for watching friend! As always, catch ya in the next one. 
+- Levi
+
+ps. Remember, life's better when you make stuff!]]></itunes:summary> 
+<itunes:image href="https://i.ytimg.com/vi/i5_q50c9k7k/maxresdefault.jpg" /> 
+<itunes:duration>4:59</itunes:duration> 
+<itunes:explicit>no</itunes:explicit> 
+<itunes:order>40</itunes:order> 
+<media:content url="http://podsync.net/download/g3lOCiiSZ/i5_q50c9k7k.mp4" fileSize="104650000" type="video/mp4" /> 
+</item> 
+<item> 
+<guid>http://podsync.net/download/g3lOCiiSZ/oz49vQwSoTE.mp4</guid> 
+<title>Satoshi Kon - Editing Space &amp; Time</title> 
+<link>https://youtube.com/watch?v=oz49vQwSoTE</link> 
+<description>Four years after his passing, we still haven't quite caught up to Satoshi Kon, one of the great visionaries of modern film. In just four features and one TV series, he developed a unique style of editing that distorted and warped space and time. Join me in honoring the greatest Japanese animator not named Miyazaki. 
+
+For educational purposes only. You can donate to support the channel at 
+Patreon: http://www.patreon.com/everyframeapainting 
+
+And follow me here: 
+Twitter: https://twitter.com/tonyszhou 
+Facebook: https://www.facebook.com/everyframeapainting 
+
+For further reading/viewing, I highly recommend: 
+Andrew Osmond's book "Satoshi Kon: The Illusionist" (my major source) http://amzn.com/1933330740 
+Kristin Thompson's essay on match cuts &amp; graphic matches http://bit.ly/1x960Em 
+And this tumblr with an excellent name http://fuckyeahsatoshikon.tumblr.com/ 
+
+Music: 
+Susumu Hirasawa - Meditational Field 
+Susumu Hirasawa - Chiyoko's Theme 
+Susumu Hirasawa - A Drop Filled with Memories 
+
+Help us caption &amp; translate this video! 
+
+http://amara.org/v/FQUM/</description> 
+<pubDate>Wed, 07 Dec 2016 21:39:55 +0000</pubDate> 
+<enclosure url="http://podsync.net/download/g3lOCiiSZ/oz49vQwSoTE.mp4" length="159950000" type="video/mp4" /> 
+<itunes:author>Jet_so_plus: video editing</itunes:author> 
+<itunes:subtitle>Satoshi Kon - Editing Space &amp; Time</itunes:subtitle> 
+<itunes:summary><![CDATA[Four years after his passing, we still haven't quite caught up to Satoshi Kon, one of the great visionaries of modern film. In just four features and one TV series, he developed a unique style of editing that distorted and warped space and time. Join me in honoring the greatest Japanese animator not named Miyazaki.
+
+For educational purposes only. You can donate to support the channel at
+Patreon: http://www.patreon.com/everyframeapainting
+
+And follow me here:
+Twitter: https://twitter.com/tonyszhou
+Facebook: https://www.facebook.com/everyframeapainting
+
+For further reading/viewing, I highly recommend:
+Andrew Osmond's book "Satoshi Kon: The Illusionist" (my major source) http://amzn.com/1933330740
+Kristin Thompson's essay on match cuts & graphic matches http://bit.ly/1x960Em
+And this tumblr with an excellent name http://fuckyeahsatoshikon.tumblr.com/
+
+Music:
+Susumu Hirasawa - Meditational Field
+Susumu Hirasawa - Chiyoko's Theme
+Susumu Hirasawa - A Drop Filled with Memories
+
+Help us caption & translate this video!
+
+http://amara.org/v/FQUM/]]></itunes:summary> 
+<itunes:image href="https://i.ytimg.com/vi/oz49vQwSoTE/maxresdefault.jpg" /> 
+<itunes:duration>7:37</itunes:duration> 
+<itunes:explicit>no</itunes:explicit> 
+<itunes:order>41</itunes:order> 
+<media:content url="http://podsync.net/download/g3lOCiiSZ/oz49vQwSoTE.mp4" fileSize="159950000" type="video/mp4" /> 
+</item> 
+<item> 
+<guid>http://podsync.net/download/g3lOCiiSZ/hpWYtXtmEFQ.mp4</guid> 
+<title>Why Do Marvel's Movies Look Kind of Ugly? (video essay)</title> 
+<link>https://youtube.com/watch?v=hpWYtXtmEFQ</link> 
+<description>I really like the movies Marvel Studios makes, but I really wish they would improve their color grading. 
+
+
+Consider donating to our Patreon: https://www.patreon.com/patrickhwillems 
+
+
+MY VIDEO GEAR http://tinyurl.com/z9kb5ow 
+
+
+TWITTER: https://twitter.com/patrickhwillems 
+FACEBOOK: https://www.facebook.com/patrickhwillems 
+TUMBLR: http://patrickhwillems.tumblr.com/ 
+INSTAGRAM: http://instagram.com/patrickhwillems 
+
+
+Music by Epidemic Sound 
+
+
+Featuring footage from: 
+Side by Side http://amzn.to/2jgb3Xm 
+Iron Man 
+Iron Man 2 
+Iron Man 3 
+Thor 
+Thor: The Dark World 
+The Avengers 
+Avengers: Age of Ultron 
+Captain America: Th First Avenger 
+Captain America: The Winter Soldier 
+Captain America: Civil War 
+Guardians of the Galaxy 
+Ant-Man 
+Doctor Strange 
+Mad Max: Fury Road 
+Jupiter Ascending 
+Spotlight 
+Sicario 
+______________________________________ 
+
+SEND ME SOME MAIL: 
+Patrick Willems 
+P.O. Box 380333 
+Brooklyn, NY 11238</description> 
+<pubDate>Fri, 27 Jan 2017 04:49:33 +0000</pubDate> 
+<enclosure url="http://podsync.net/download/g3lOCiiSZ/hpWYtXtmEFQ.mp4" length="155050000" type="video/mp4" /> 
+<itunes:author>Jet_so_plus: video editing</itunes:author> 
+<itunes:subtitle>Why Do Marvel's Movies Look Kind of Ugly? (video essay)</itunes:subtitle> 
+<itunes:summary><![CDATA[I really like the movies Marvel Studios makes, but I really wish they would improve their color grading.
+
+
+Consider donating to our Patreon: https://www.patreon.com/patrickhwillems
+
+
+MY VIDEO GEAR http://tinyurl.com/z9kb5ow
+
+
+TWITTER: https://twitter.com/patrickhwillems
+FACEBOOK: https://www.facebook.com/patrickhwillems
+TUMBLR: http://patrickhwillems.tumblr.com/
+INSTAGRAM: http://instagram.com/patrickhwillems
+
+
+Music by Epidemic Sound
+
+
+Featuring footage from:
+Side by Side http://amzn.to/2jgb3Xm
+Iron Man
+Iron Man 2
+Iron Man 3
+Thor
+Thor: The Dark World
+The Avengers
+Avengers: Age of Ultron
+Captain America: Th First Avenger
+Captain America: The Winter Soldier
+Captain America: Civil War
+Guardians of the Galaxy
+Ant-Man
+Doctor Strange
+Mad Max: Fury Road
+Jupiter Ascending
+Spotlight
+Sicario
+______________________________________
+
+SEND ME SOME MAIL:
+Patrick Willems
+P.O. Box 380333
+Brooklyn, NY 11238]]></itunes:summary> 
+<itunes:image href="https://i.ytimg.com/vi/hpWYtXtmEFQ/maxresdefault.jpg" /> 
+<itunes:duration>7:23</itunes:duration> 
+<itunes:explicit>no</itunes:explicit> 
+<itunes:order>42</itunes:order> 
+<media:content url="http://podsync.net/download/g3lOCiiSZ/hpWYtXtmEFQ.mp4" fileSize="155050000" type="video/mp4" /> 
+</item> 
+<item> 
+<guid>http://podsync.net/download/g3lOCiiSZ/Qj1FK8n7WgY.mp4</guid> 
+<title>Understanding Color</title> 
+<link>https://youtube.com/watch?v=Qj1FK8n7WgY</link> 
+<description>Why Color is so important, Saturation and Value and six Color Harmonies that work. 
+See the summary: http://www.blenderguru.com/tutorials/understanding-colors/</description> 
+<pubDate>Wed, 11 Jan 2017 03:02:41 +0000</pubDate> 
+<enclosure url="http://podsync.net/download/g3lOCiiSZ/Qj1FK8n7WgY.mp4" length="487900000" type="video/mp4" /> 
+<itunes:author>Jet_so_plus: video editing</itunes:author> 
+<itunes:subtitle>Understanding Color</itunes:subtitle> 
+<itunes:summary><![CDATA[Why Color is so important, Saturation and Value and six Color Harmonies that work.
+See the summary: http://www.blenderguru.com/tutorials/understanding-colors/]]></itunes:summary> 
+<itunes:image href="https://i.ytimg.com/vi/Qj1FK8n7WgY/maxresdefault.jpg" /> 
+<itunes:duration>23:14</itunes:duration> 
+<itunes:explicit>no</itunes:explicit> 
+<itunes:order>43</itunes:order> 
+<media:content url="http://podsync.net/download/g3lOCiiSZ/Qj1FK8n7WgY.mp4" fileSize="487900000" type="video/mp4" /> 
+</item> 
+<item> 
+<guid>http://podsync.net/download/g3lOCiiSZ/O8i7OKbWmRM.mp4</guid> 
+<title>Understanding Composition</title> 
+<link>https://youtube.com/watch?v=O8i7OKbWmRM</link> 
+<description>Discover one of the most important things you can learn as a CG artist: Composition. There's more to it than the rule of thirds. Discussion: http://www.blenderguru.com/tutorials/understanding-composition/</description> 
+<pubDate>Wed, 25 Jan 2017 02:26:16 +0000</pubDate> 
+<enclosure url="http://podsync.net/download/g3lOCiiSZ/O8i7OKbWmRM.mp4" length="639450000" type="video/mp4" /> 
+<itunes:author>Jet_so_plus: video editing</itunes:author> 
+<itunes:subtitle>Understanding Composition</itunes:subtitle> 
+<itunes:summary><![CDATA[Discover one of the most important things you can learn as a CG artist: Composition. There's more to it than the rule of thirds. Discussion: http://www.blenderguru.com/tutorials/understanding-composition/]]></itunes:summary> 
+<itunes:image href="https://i.ytimg.com/vi/O8i7OKbWmRM/maxresdefault.jpg" /> 
+<itunes:duration>30:27</itunes:duration> 
+<itunes:explicit>no</itunes:explicit> 
+<itunes:order>44</itunes:order> 
+<media:content url="http://podsync.net/download/g3lOCiiSZ/O8i7OKbWmRM.mp4" fileSize="639450000" type="video/mp4" /> 
+</item> 
+<item> 
+<guid>http://podsync.net/download/g3lOCiiSZ/msPCQgRPPjI.mp4</guid> 
+<title>How Green Screen Worked Before Computers</title> 
+<link>https://youtube.com/watch?v=msPCQgRPPjI</link> 
+<description>http://tomscott.com - http://twitter.com/tomscott - For those of us who grew up in the age of CGI, green screen is just "a thing that computers do". But how did effects like this work before the age of pixels? With the help of some suitably shiny graphics, here's a quick summary. 
+
+Thank you to Matt Gray - http://mattg.co.uk - http://twitter.com/unnamedculprit - for sterling work getting the camera and lighting right!</description> 
+<pubDate>Tue, 07 Feb 2017 09:09:21 +0000</pubDate> 
+<enclosure url="http://podsync.net/download/g3lOCiiSZ/msPCQgRPPjI.mp4" length="75600000" type="video/mp4" /> 
+<itunes:author>Jet_so_plus: video editing</itunes:author> 
+<itunes:subtitle>How Green Screen Worked Before Computers</itunes:subtitle> 
+<itunes:summary><![CDATA[http://tomscott.com - http://twitter.com/tomscott - For those of us who grew up in the age of CGI, green screen is just "a thing that computers do". But how did effects like this work before the age of pixels? With the help of some suitably shiny graphics, here's a quick summary.
+
+Thank you to Matt Gray - http://mattg.co.uk - http://twitter.com/unnamedculprit - for sterling work getting the camera and lighting right!]]></itunes:summary> 
+<itunes:image href="https://i.ytimg.com/vi/msPCQgRPPjI/maxresdefault.jpg" /> 
+<itunes:duration>3:36</itunes:duration> 
+<itunes:explicit>no</itunes:explicit> 
+<itunes:order>45</itunes:order> 
+<media:content url="http://podsync.net/download/g3lOCiiSZ/msPCQgRPPjI.mp4" fileSize="75600000" type="video/mp4" /> 
+</item> 
+<item> 
+<guid>http://podsync.net/download/g3lOCiiSZ/ba-CB6wVuvQ.mp4</guid> 
+<title>Whiplash vs. Black Swan — The Anatomy of the Obsessed Artist</title> 
+<link>https://youtube.com/watch?v=ba-CB6wVuvQ</link> 
+<description>Support this channel: http://patreon.com/LFTScreenplay 
+LFTS on Facebook: https://goo.gl/u4pNNa 
+Follow me at: http://twitter.com/michaeltuckerla 
+
+A comparison of how the tale of the obsessed artist is told in Darren Aronofsky's "Black Swan" starring Natalie Portman, Mila Kunis, and Vincent Cassel, and Damien Chazelle's "Whiplash" starring Miles Teller and J. K. Simmons. 
+
+Translate this video into your language: 
+http://www.youtube.com/timedtext_video?v=ba-CB6wVuvQ&amp;ref=share 
+
+Thanks to Diego Rojas for composing original music for this video! 
+Check him out: https://soundcloud.com/diegorojasguitar 
+
+
+
+Down With That by Twin Musicom is licensed under a Creative Commons Attribution license (https://creativecommons.org/licenses/by/4.0/) 
+Artist: http://www.twinmusicom.org/ 
+
+Marxist Arrow by Twin Musicom is licensed under a Creative Commons Attribution license (https://creativecommons.org/licenses/by/4.0/) 
+Artist: http://www.twinmusicom.org/</description> 
+<pubDate>Fri, 27 Jan 2017 04:52:15 +0000</pubDate> 
+<enclosure url="http://podsync.net/download/g3lOCiiSZ/ba-CB6wVuvQ.mp4" length="348950000" type="video/mp4" /> 
+<itunes:author>Jet_so_plus: video editing</itunes:author> 
+<itunes:subtitle>Whiplash vs. Black Swan — The Anatomy of the Obsessed Artist</itunes:subtitle> 
+<itunes:summary><![CDATA[Support this channel: http://patreon.com/LFTScreenplay
+LFTS on Facebook: https://goo.gl/u4pNNa
+Follow me at: http://twitter.com/michaeltuckerla
+
+A comparison of how the tale of the obsessed artist is told in Darren Aronofsky's "Black Swan" starring Natalie Portman, Mila Kunis, and Vincent Cassel, and Damien Chazelle's "Whiplash" starring Miles Teller and J. K. Simmons.
+
+Translate this video into your language: 
+http://www.youtube.com/timedtext_video?v=ba-CB6wVuvQ&ref=share
+
+Thanks to Diego Rojas for composing original music for this video!
+Check him out: https://soundcloud.com/diegorojasguitar
+
+
+
+Down With That by Twin Musicom is licensed under a Creative Commons Attribution license (https://creativecommons.org/licenses/by/4.0/)
+Artist: http://www.twinmusicom.org/
+
+Marxist Arrow by Twin Musicom is licensed under a Creative Commons Attribution license (https://creativecommons.org/licenses/by/4.0/)
+Artist: http://www.twinmusicom.org/]]></itunes:summary> 
+<itunes:image href="https://i.ytimg.com/vi/ba-CB6wVuvQ/maxresdefault.jpg" /> 
+<itunes:duration>16:37</itunes:duration> 
+<itunes:explicit>no</itunes:explicit> 
+<itunes:order>46</itunes:order> 
+<media:content url="http://podsync.net/download/g3lOCiiSZ/ba-CB6wVuvQ.mp4" fileSize="348950000" type="video/mp4" /> 
+</item> 
+<item> 
+<guid>http://podsync.net/download/g3lOCiiSZ/1Ko9mWdqW-M.mp4</guid> 
+<title>Ex Machina — The Control of Information</title> 
+<link>https://youtube.com/watch?v=1Ko9mWdqW-M</link> 
+<description>Support this channel at: http://patreon.com/LFTScreenplay 
+Like LFTS on Facebook: https://www.facebook.com/lessonsfromthescreenplay/ 
+Follow me at: http://twitter.com/michaeltuckerla 
+
+At its most basic level, a story is simply information being communicated over time. Ex Machina is a great example of how a screenwriter's ability to carefully control a story's information can make for a compelling film. 
+
+BOOKS IN THIS VIDEO 
+“The Anatomy of Story” by John Truby: http://amzn.to/2pKIO49 
+“Notes on Directing” by Frank Hauser and Russel Reich: http://amzn.to/2pLSxJw 
+
+Ex Machina 
+Written and Directed by Alex Garland 
+Staring Alicia Vikander, Domhnall Gleeson, and Oscar Isaac. 
+
+Translate this video into your language: 
+http://www.youtube.com/timedtext_video?ref=share&amp;v=1Ko9mWdqW-M 
+
+Thanks to Diego Rojas for composing original music for this video! 
+Check him out: https://soundcloud.com/diegorojasguitar 
+
+Marxist Arrow by Twin Musicom is licensed under a Creative Commons Attribution license (https://creativecommons.org/licenses/by/4.0/) 
+Artist: http://www.twinmusicom.org/</description> 
+<pubDate>Fri, 27 Jan 2017 05:07:12 +0000</pubDate> 
+<enclosure url="http://podsync.net/download/g3lOCiiSZ/1Ko9mWdqW-M.mp4" length="225750000" type="video/mp4" /> 
+<itunes:author>Jet_so_plus: video editing</itunes:author> 
+<itunes:subtitle>Ex Machina — The Control of Information</itunes:subtitle> 
+<itunes:summary><![CDATA[Support this channel at: http://patreon.com/LFTScreenplay
+Like LFTS on Facebook: https://www.facebook.com/lessonsfromthescreenplay/
+Follow me at: http://twitter.com/michaeltuckerla
+
+At its most basic level, a story is simply information being communicated over time. Ex Machina is a great example of how a screenwriter's ability to carefully control a story's information can make for a compelling film.
+
+BOOKS IN THIS VIDEO
+“The Anatomy of Story” by John Truby: http://amzn.to/2pKIO49
+“Notes on Directing” by Frank Hauser and Russel Reich: http://amzn.to/2pLSxJw
+
+Ex Machina
+Written and Directed by Alex Garland
+Staring Alicia Vikander, Domhnall Gleeson, and Oscar Isaac.
+
+Translate this video into your language: 
+http://www.youtube.com/timedtext_video?ref=share&v=1Ko9mWdqW-M
+
+Thanks to Diego Rojas for composing original music for this video!
+Check him out: https://soundcloud.com/diegorojasguitar
+
+Marxist Arrow by Twin Musicom is licensed under a Creative Commons Attribution license (https://creativecommons.org/licenses/by/4.0/)
+Artist: http://www.twinmusicom.org/]]></itunes:summary> 
+<itunes:image href="https://i.ytimg.com/vi/1Ko9mWdqW-M/maxresdefault.jpg" /> 
+<itunes:duration>10:45</itunes:duration> 
+<itunes:explicit>no</itunes:explicit> 
+<itunes:order>47</itunes:order> 
+<media:content url="http://podsync.net/download/g3lOCiiSZ/1Ko9mWdqW-M.mp4" fileSize="225750000" type="video/mp4" /> 
+</item> 
+<item> 
+<guid>http://podsync.net/download/g3lOCiiSZ/V_8oqbHdsNk.mp4</guid> 
+<title>Scene Breakdown | Ex Machina</title> 
+<link>https://youtube.com/watch?v=V_8oqbHdsNk</link> 
+<description>A quick analysis of Ex Machina's Ava Sessions and how camera positioning can change the dynamic of a scene. 
+Support FDL on Patreon: http://patreon.com/filmdrunklove 
+
+Twitter: http://twitter.com/filmdrunklove 
+Facebook: http://facebook.com/filmdrunklove 
+
+This video essay was created by Goutham Gnanasekaran. 
+
+Clips From: 
+Ex Machina (dir. Alex Garland) 
+Star Trek Into Darkness (dir. J.J. Abrams) 
+Jurassic World (dir. Colin Trevorrow) 
+Transformers: Age of Extinction (dir. Michael Bay) 
+Blade Runner (dir. Ridley Scott) 
+The Silence of the Lambs (dir. Jonathan Demme) 
+
+
+Music: 
+Star Trek Main Theme (Michael Giacchino) 
+Bunsen Burner (CUTS) 
+Detroit (Distasterpeace) 
+Pool (Disasterpeace) 
+Dives (Alvvays)</description> 
+<pubDate>Fri, 27 Jan 2017 05:10:10 +0000</pubDate> 
+<enclosure url="http://podsync.net/download/g3lOCiiSZ/V_8oqbHdsNk.mp4" length="177100000" type="video/mp4" /> 
+<itunes:author>Jet_so_plus: video editing</itunes:author> 
+<itunes:subtitle>Scene Breakdown | Ex Machina</itunes:subtitle> 
+<itunes:summary><![CDATA[A quick analysis of Ex Machina's Ava Sessions and how camera positioning can change the dynamic of a scene.
+Support FDL on Patreon: http://patreon.com/filmdrunklove
+
+Twitter: http://twitter.com/filmdrunklove
+Facebook: http://facebook.com/filmdrunklove
+
+This video essay was created by Goutham Gnanasekaran.
+
+Clips From:
+Ex Machina (dir. Alex Garland)
+Star Trek Into Darkness (dir. J.J. Abrams)
+Jurassic World (dir. Colin Trevorrow)
+Transformers: Age of Extinction (dir. Michael Bay)
+Blade Runner (dir. Ridley Scott)
+The Silence of the Lambs (dir. Jonathan Demme)
+
+
+Music:
+Star Trek Main Theme (Michael Giacchino)
+Bunsen Burner (CUTS)
+Detroit (Distasterpeace)
+Pool (Disasterpeace)
+Dives (Alvvays)]]></itunes:summary> 
+<itunes:image href="https://i.ytimg.com/vi/V_8oqbHdsNk/maxresdefault.jpg" /> 
+<itunes:duration>8:26</itunes:duration> 
+<itunes:explicit>no</itunes:explicit> 
+<itunes:order>48</itunes:order> 
+<media:content url="http://podsync.net/download/g3lOCiiSZ/V_8oqbHdsNk.mp4" fileSize="177100000" type="video/mp4" /> 
+</item> 
+<item> 
+<guid>http://podsync.net/download/g3lOCiiSZ/j9oXXfhFyR8.mp4</guid> 
+<title>Scene Breakdown | The Social Network</title> 
+<link>https://youtube.com/watch?v=j9oXXfhFyR8</link> 
+<description>Ex Machina Breakdown: https://youtu.be/V_8oqbHdsNk 
+GoodFellas Breakdown: https://youtu.be/xCXxV7CZ6NE 
+
+Support FDL on Patreon: http://patreon.com/filmdrunklove 
+Twitter: http://twitter.com/filmdrunklove 
+Facebook: http://facebook.com/filmdrunklove 
+
+This video essay was created by Goutham Gnanasekaran. 
+
+Clips From: 
+The Social Network (dir. David Fincher) 
+The Departed (dir. Martin Scorsese) 
+Non-Stop (dir. Jaume Collet-Serra) 
+Boyhood (dir. Richard Linklater) 
+Capote (dir. Bennett Miller) 
+Moneyball (dir. Bennett Miller) 
+Unfriended (dir. Leo Gabriadze) 
+Star Wars (dir. George Lucas) 
+
+Music: 
+Intriguing Possibilites (Trent Reznor and Atticus Ross) 
+Painted Sun in Abstract (Trent Reznor and Atticus Ross) 
+A Change is Gonna Come (Sam Cooke)</description> 
+<pubDate>Fri, 27 Jan 2017 05:10:27 +0000</pubDate> 
+<enclosure url="http://podsync.net/download/g3lOCiiSZ/j9oXXfhFyR8.mp4" length="127400000" type="video/mp4" /> 
+<itunes:author>Jet_so_plus: video editing</itunes:author> 
+<itunes:subtitle>Scene Breakdown | The Social Network</itunes:subtitle> 
+<itunes:summary><![CDATA[Ex Machina Breakdown: https://youtu.be/V_8oqbHdsNk
+GoodFellas Breakdown: https://youtu.be/xCXxV7CZ6NE
+
+Support FDL on Patreon: http://patreon.com/filmdrunklove
+Twitter: http://twitter.com/filmdrunklove
+Facebook: http://facebook.com/filmdrunklove
+
+This video essay was created by Goutham Gnanasekaran.
+
+Clips From:
+The Social Network (dir. David Fincher)
+The Departed (dir. Martin Scorsese)
+Non-Stop (dir. Jaume Collet-Serra)
+Boyhood (dir. Richard Linklater)
+Capote (dir. Bennett Miller)
+Moneyball (dir. Bennett Miller)
+Unfriended (dir. Leo Gabriadze)
+Star Wars (dir. George Lucas)
+
+Music:
+Intriguing Possibilites (Trent Reznor and Atticus Ross)
+Painted Sun in Abstract (Trent Reznor and Atticus Ross)
+A Change is Gonna Come (Sam Cooke)]]></itunes:summary> 
+<itunes:image href="https://i.ytimg.com/vi/j9oXXfhFyR8/maxresdefault.jpg" /> 
+<itunes:duration>6:04</itunes:duration> 
+<itunes:explicit>no</itunes:explicit> 
+<itunes:order>49</itunes:order> 
+<media:content url="http://podsync.net/download/g3lOCiiSZ/j9oXXfhFyR8.mp4" fileSize="127400000" type="video/mp4" /> 
+</item> 
+<media:credit role="author">Jet_so_plus: video editing</media:credit>
+<media:rating>nonadult</media:rating> 
+<media:description type="plain">Jet_so_plus: video editing</media:description> 
+</channel> 
+</rss> 
