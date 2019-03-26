@@ -1,0 +1,31 @@
+  <?xml version="1.0" encoding="UTF-8"?>
+  <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>test</title>
+    <link>example.com</link>
+    <language></language>
+    <copyright></copyright>
+    <itunes:subtitle></itunes:subtitle>
+    <itunes:author></itunes:author>
+    <itunes:summary></itunes:summary>  
+    <itunes:owner>
+      <itunes:name></itunes:name>
+      <itunes:email></itunes:email>
+    </itunes:owner>
+    <itunes:image href="" />
+    <itunes:category text=""/>
+    
+      <item>
+        <title>episode test</title>
+        <itunes:author></itunes:author>
+        <itunes:subtitle></itunes:subtitle>
+        <itunes:summary></itunes:summary>
+        <itunes:image href="" />
+        <enclosure url="https://r5---sn-0opoxu-hutek.googlevideo.com/videoplayback?key=cms1&amp;ei=_JaZXLPbJ6_W8gSav4LQAw&amp;pl=23&amp;clen=68043672&amp;signature=21D3CF8A8374C690D1D1ADF04F5BC10A86529A69.0BCCF59F3AF04329C5D3576408CD25E6DD9EE40D&amp;sparams=clen,dur,ei,expire,gir,id,ip,ipbits,ipbypass,itag,keepalive,lmt,mime,mip,mm,mn,ms,mv,pl,requiressl,source,usequic&amp;keepalive=yes&amp;ip=2604%3Aa880%3A400%3Ad1%3A%3A6b6%3Ab001&amp;requiressl=yes&amp;itag=251&amp;lmt=1550008276400879&amp;id=o-AJ29kLjHoPxXVq6leTkLKqyfJ02ROFhI6NMhY1e2Nu7k&amp;dur=4158.101&amp;source=youtube&amp;mime=audio%2Fwebm&amp;txp=5511222&amp;ipbits=0&amp;expire=1553591132&amp;gir=yes&amp;c=WEB&amp;fvip=5&amp;host=r5---sn-ab5l6nzr.googlevideo.com&amp;redirect_counter=1&amp;rm=sn-ab5yl76&amp;req_id=cf5849e57ad4a3ee&amp;cms_redirect=yes&amp;ipbypass=yes&amp;mip=189.152.47.148&amp;mm=31&amp;mn=sn-0opoxu-hutek&amp;ms=au&amp;mt=1553569404&amp;mv=m&amp;usequic=no" length="" type="audio/mpeg"/>
+        <guid></guid>
+        <pubDate>Mon Mar 25 2019 21:16:17 GMT-0600 (Central Standard Time)</pubDate>
+        <itunes:duration></itunes:duration>
+      </item>
+    
+  </channel>
+  </rss>
